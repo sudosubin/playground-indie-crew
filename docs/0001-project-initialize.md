@@ -58,14 +58,14 @@
 - [ ] Configure deployment via GitHub Actions
 
 ### Phase 3: Frontend Service
-- [ ] Create `services/hello-world-web` with React 19 + Vite 8 Beta
-- [ ] Configure TypeScript
-- [ ] Set up TailwindCSS v4
-- [ ] Configure shadcn and base-ui
-- [ ] Implement dark/light mode
-- [ ] Add Wouter for routing
-- [ ] Add react-query for data fetching
-- [ ] Write vitest tests (including DOM tests)
+- [x] Create `services/hello-world-web` with React 19 + Vite 8 Beta
+- [x] Configure TypeScript
+- [x] Set up TailwindCSS v4
+- [x] Configure shadcn and base-ui
+- [x] Implement dark/light mode
+- [x] Add Wouter for routing
+- [x] Add react-query for data fetching
+- [x] Write vitest tests (including DOM tests)
 - [ ] Configure deployment via GitHub Actions
 
 ### Phase 4: CI/CD and Deployment
