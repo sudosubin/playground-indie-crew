@@ -27,13 +27,16 @@
 ```
 .
 ├── libraries/
-│   └── react-utils/
+│   └── react-utils/       # Shared React utilities (useLocalStorage hook)
 ├── services/
-│   ├── hello-world-api/
-│   └── hello-world-web/
+│   ├── hello-world-api/   # Hono backend on Cloudflare Workers
+│   └── hello-world-web/   # React 19 frontend on Cloudflare Pages
 ├── docs/
+│   └── 0001-project-initialize.md
 ├── .github/
 │   └── workflows/
+│       ├── ci.yml
+│       └── deploy.yml
 ├── README.md
 ├── AGENTS.md
 └── package.json (workspace root)
@@ -74,5 +77,5 @@
 - [ ] Test deployments
 
 ### Phase 5: Documentation
-- [ ] Update `README.md` with project overview
-- [ ] Update `AGENTS.md` with development guidelines
+- [x] Update `README.md` with project overview
+- [x] Update `AGENTS.md` with development guidelines
