@@ -17,6 +17,7 @@ function App() {
             <p className="text-muted-foreground">
               A demo React 19 + Vite + TailwindCSS v4 application with dark/light mode support.
             </p>
+            <p className="text-sm text-muted-foreground">Version 1.0.0</p>
           </div>
           <div className="flex flex-wrap gap-4">
             <Button>Default Button</Button>
