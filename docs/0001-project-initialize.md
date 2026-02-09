@@ -45,6 +45,7 @@
 ## Checklist Progress
 
 ### Phase 1: Repository Setup
+
 - [x] Create initial project documentation (`README.md`, `AGENTS.md`)
 - [x] Create `package.json` with bun-workspaces configuration
 - [x] Set up Nix/Direnv configuration (`flake.nix`, `.envrc`)
@@ -53,6 +54,7 @@
 - [x] Install dependencies with bun
 
 ### Phase 2: Backend Service
+
 - [x] Create `services/hello-world-api` with Hono
 - [x] Configure TypeScript
 - [x] Set up Wrangler for Cloudflare Workers
@@ -61,6 +63,7 @@
 - [x] Configure deployment via GitHub Actions
 
 ### Phase 3: Frontend Service
+
 - [x] Create `services/hello-world-web` with React 19 + Vite 8 Beta
 - [x] Configure TypeScript
 - [x] Set up TailwindCSS v4
@@ -72,11 +75,13 @@
 - [x] Configure deployment via GitHub Actions
 
 ### Phase 4: CI/CD and Deployment
+
 - [x] Create dynamic GitHub Actions matrix using bun-workspaces
 - [x] Configure Cloudflare deployment for both services
 - [x] Test deployments (pending Cloudflare credentials verification)
 
 ### Phase 5: Documentation
+
 - [x] Update `README.md` with project overview
 - [x] Update `AGENTS.md` with development guidelines
 
