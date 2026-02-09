@@ -85,6 +85,14 @@
 - [x] Update `README.md` with project overview
 - [x] Update `AGENTS.md` with development guidelines
 
+## CI/CD Fixes Applied
+
+During initial GitHub Actions runs, the following issues were identified and fixed:
+
+1. **Format Check Failure**: The `docs/0001-project-initialize.md` file needed blank lines after headings to comply with oxfmt rules. Fixed by running `bun run format` locally and committing the changes.
+
+2. **TypeScript Typecheck Failure**: The root `tsconfig.json` doesn't include JSX settings, causing typecheck failures for React packages. Fixed by updating the CI workflow to run typecheck per-package using a matrix strategy, rather than from the root.
+
 ## Summary
 
 All project initialization tasks have been completed. The monorepo is now set up with:
@@ -95,6 +103,8 @@ All project initialization tasks have been completed. The monorepo is now set up
 
 3. **Shared Library** (`libraries/react-utils`): React hooks including `useLocalStorage` with full test coverage.
 
-4. **CI/CD Pipeline**: GitHub Actions workflows for linting, formatting, testing, and deployment to Cloudflare.
+4. **CI/CD Pipeline**: GitHub Actions workflows for linting, formatting, type checking, and testing. All jobs pass successfully.
 
 5. **Code Quality**: Shared oxlint and oxfmt configuration across the entire workspace.
+
+6. **Deployment**: Configured for Cloudflare Workers (backend) and Cloudflare Pages (frontend) with change-based deployments.
