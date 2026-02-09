@@ -27,11 +27,13 @@ This is a **bun-workspaces** monorepo with the following conventions:
 ## Technology Stack
 
 ### Backend
+
 - **Framework**: Hono
 - **Runtime**: Cloudflare Workers
 - **Deployment**: Wrangler via GitHub Actions
 
 ### Frontend
+
 - **Framework**: React 19
 - **Build Tool**: Vite 8 Beta
 - **Router**: Wouter
@@ -40,6 +42,7 @@ This is a **bun-workspaces** monorepo with the following conventions:
 - **Theme**: Dark/light mode support required
 
 ### Development Tools
+
 - **Package Manager**: bun
 - **Language**: TypeScript (strict mode)
 - **Linter**: oxlint
@@ -50,22 +53,26 @@ This is a **bun-workspaces** monorepo with the following conventions:
 ## Environment Variables
 
 All environment variables must be:
+
 1. Defined in `.env` at the workspace root
 2. Documented in package README or code
 3. Added to `.gitignore` (never committed)
 
 Required secrets for deployment:
+
 - `CLOUDFLARE_ACCOUNT_ID`
 - `CLOUDFLARE_API_TOKEN`
 
 ## Git Conventions
 
 ### Commit Messages
+
 - Use conventional commit format
 - Keep to one line, concise
 - Examples: `feat: add hello endpoint`, `fix: handle error case`, `chore: update deps`
 
 ### Workflow
+
 1. Make changes
 2. Run `bun run lint` and `bun run format`
 3. Run `bun test` to ensure tests pass
@@ -75,6 +82,7 @@ Required secrets for deployment:
 ## CI/CD
 
 ### GitHub Actions
+
 - Use dynamic matrix based on `bun-workspaces`
 - Deploy on changes to service packages
 - Use latest action tags:
@@ -101,17 +109,20 @@ Required secrets for deployment:
 ## Frontend Styling Guidelines
 
 ### TailwindCSS v4
+
 - Use CSS-based configuration in `src/styles.css`
 - Define theme variables for both light and dark modes
 - Use HSL color format for theme variables
 
 ### Component Structure
+
 - Place shared UI components in `src/components/`
 - Use `class-variance-authority` for component variants
 - Use `tailwind-merge` and `clsx` for class composition
 - Use the `cn()` utility from `src/lib/utils.ts`
 
 ### Theme Support
+
 - Always implement dark/light mode support
 - Use `ThemeProvider` from `src/components/theme-provider.tsx`
 - Use CSS variables for theming (`--background`, `--foreground`, etc.)

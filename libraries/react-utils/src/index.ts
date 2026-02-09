@@ -1,1 +1,1 @@
-export { useLocalStorage } from './hooks/use-local-storage';
+export { useLocalStorage } from "./hooks/use-local-storage";

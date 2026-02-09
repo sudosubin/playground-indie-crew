@@ -1,18 +1,18 @@
-import { Hono } from 'hono';
+import { Hono } from "hono";
 
 const app = new Hono();
 
-app.get('/', (c) => {
+app.get("/", (c) => {
   return c.json({
-    message: 'Hello World from Hono on Cloudflare Workers!',
+    message: "Hello World from Hono on Cloudflare Workers!",
     timestamp: new Date().toISOString(),
   });
 });
 
-app.get('/health', (c) => {
+app.get("/health", (c) => {
   return c.json({
-    status: 'ok',
-    uptime: 'running',
+    status: "ok",
+    uptime: "running",
   });
 });
 

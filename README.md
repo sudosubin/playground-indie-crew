@@ -5,9 +5,11 @@ A monorepo playground with Cloudflare Workers backend (Hono) and React frontend,
 ## Packages
 
 ### Libraries
+
 - **libraries/**: Shared library packages
 
 ### Services
+
 - **services/hello-world-api**: Demo backend API built with Hono and deployed to Cloudflare Workers
 - **services/hello-world-web**: Demo frontend app built with React 19, Vite, and TailwindCSS v4, deployed to Cloudflare Pages
 

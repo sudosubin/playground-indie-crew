@@ -2,11 +2,11 @@
   "name": "playground-indie-crew",
   "version": "0.0.0",
   "private": true,
-  "type": "module",
   "workspaces": [
     "libraries/*",
     "services/*"
   ],
+  "type": "module",
   "scripts": {
     "lint": "oxlint",
     "format": "oxfmt",
@@ -16,8 +16,8 @@
   },
   "devDependencies": {
     "@types/node": "^22.0.0",
-    "oxlint": "latest",
     "oxfmt": "latest",
+    "oxlint": "latest",
     "typescript": "^5.7.0"
   },
   "packageManager": "bun@1.2.0"
