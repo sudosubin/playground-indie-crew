@@ -69,8 +69,8 @@
 - [ ] Configure deployment via GitHub Actions
 
 ### Phase 4: CI/CD and Deployment
-- [ ] Create dynamic GitHub Actions matrix using bun-workspaces
-- [ ] Configure Cloudflare deployment for both services
+- [x] Create dynamic GitHub Actions matrix using bun-workspaces
+- [x] Configure Cloudflare deployment for both services
 - [ ] Test deployments
 
 ### Phase 5: Documentation
