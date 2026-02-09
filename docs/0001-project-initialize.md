@@ -31,7 +31,6 @@
 ├── services/
 │   ├── hello-world-api/
 │   └── hello-world-web/
-├── services/
 ├── docs/
 ├── .github/
 │   └── workflows/
@@ -47,8 +46,8 @@
 - [x] Create `package.json` with bun-workspaces configuration
 - [x] Set up Nix/Direnv configuration (`flake.nix`, `.envrc`)
 - [x] Create root configuration files (`.gitignore`, `package.json`, `tsconfig.json`)
-- [ ] Configure oxlint and oxfmt for the workspace
-- [ ] Install dependencies with bun
+- [x] Configure oxlint and oxfmt for the workspace
+- [x] Install dependencies with bun
 
 ### Phase 2: Backend Service
 - [ ] Create `services/hello-world-api` with Hono

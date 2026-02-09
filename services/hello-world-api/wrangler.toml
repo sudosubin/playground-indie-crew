@@ -1,0 +1,9 @@
+name = "hello-world-api"
+main = "src/index.ts"
+compatibility_date = "2025-02-10"
+
+[env.production]
+name = "hello-world-api"
+
+[env.staging]
+name = "hello-world-api-staging"
