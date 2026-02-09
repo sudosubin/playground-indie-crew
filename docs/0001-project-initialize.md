@@ -93,6 +93,13 @@ During initial GitHub Actions runs, the following issues were identified and fix
 
 2. **TypeScript Typecheck Failure**: The root `tsconfig.json` doesn't include JSX settings, causing typecheck failures for React packages. Fixed by updating the CI workflow to run typecheck per-package using a matrix strategy, rather than from the root.
 
+## Deployment URLs
+
+Both services have been successfully deployed:
+
+- **API**: https://hello-world-api.sudosubin.workers.dev
+- **Web**: https://hello-world-web-5lu.pages.dev
+
 ## Summary
 
 All project initialization tasks have been completed. The monorepo is now set up with:

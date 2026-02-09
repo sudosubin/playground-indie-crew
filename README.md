@@ -26,6 +26,11 @@ A monorepo playground with Cloudflare Workers backend (Hono) and React frontend,
 - **Formatting**: oxfmt
 - **Deployment**: GitHub Actions + Cloudflare
 
+## Deployed Services
+
+- **API**: https://hello-world-api.sudosubin.workers.dev
+- **Web**: https://hello-world-web-5lu.pages.dev
+
 ## Development
 
 ```bash
