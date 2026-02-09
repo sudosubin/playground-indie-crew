@@ -50,11 +50,11 @@
 - [x] Install dependencies with bun
 
 ### Phase 2: Backend Service
-- [ ] Create `services/hello-world-api` with Hono
-- [ ] Configure TypeScript
-- [ ] Set up Wrangler for Cloudflare Workers
-- [ ] Create demo endpoint
-- [ ] Write vitest tests
+- [x] Create `services/hello-world-api` with Hono
+- [x] Configure TypeScript
+- [x] Set up Wrangler for Cloudflare Workers
+- [x] Create demo endpoint
+- [x] Write vitest tests
 - [ ] Configure deployment via GitHub Actions
 
 ### Phase 3: Frontend Service
