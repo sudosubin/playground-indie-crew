@@ -259,15 +259,15 @@ Note: Wikipedia lists approximately 190 institutions but may not be as up-to-dat
 
 ### Gangwon (강원) - 23 Universities
 
-| #   | Korean Name        | English Name                               | Type     | Website                   | Scholarship Introduction URLs                  | Scholarship Announcement Board URL             | Status |
-| --- | ------------------ | ------------------------------------------ | -------- | ------------------------- | ---------------------------------------------- | ---------------------------------------------- | ------ |
-| 1   | 강원대학교         | Kangwon National University                | National | https://www.kangwon.ac.kr | N/A                                            | N/A                                            | ✅     |
-| 2   | 국립강릉원주대학교 | Gangneung-Wonju National University        | National | https://www.gwnu.ac.kr    | https://www.gwnu.ac.kr/life/scholarship.do     | https://www.gwnu.ac.kr/life/notice.do          | ✅     |
-| 3   | 상지대학교         | Sangji University                          | Private  | https://www.sangji.ac.kr  | N/A                                            | https://www.sangji.ac.kr/sangji/222/subview.do | ✅     |
-| 4   | 한라대학교         | Halla University                           | Private  | https://www.halla.ac.kr   | https://www.halla.ac.kr/halla/201/subview.do   | https://www.halla.ac.kr/halla/202/subview.do   | ✅     |
-| 5   | 한림대학교         | Hallym University                          | Private  | https://www.hallym.ac.kr  | https://www.hallym.ac.kr/hallym/231/subview.do | https://www.hallym.ac.kr/hallym/232/subview.do | ✅     |
-| 6   | 춘천교육대학교     | Chuncheon National University of Education | National | https://www.cnue.ac.kr    | N/A                                            | https://www.cnue.ac.kr/cnue/202/subview.do     | ✅     |
-| 7   | 강원관광대학교     | Gangwon Tourism University                 | Private  | https://www.gtu.ac.kr     | N/A - Website permanently inaccessible         | N/A                                            | ❌     |
+| #   | Korean Name        | English Name                               | Type     | Website                   | Scholarship Introduction URLs                                    | Scholarship Announcement Board URL                          | Status |
+| --- | ------------------ | ------------------------------------------ | -------- | ------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------- | ------ |
+| 1   | 강원대학교         | Kangwon National University                | National | https://www.kangwon.ac.kr | https://wwwk.kangwon.ac.kr/www/selectTnSchlshipListU.do?key=2371 | https://wwwk.kangwon.ac.kr/www/selectBbsNttList.do?bbsNo=71 | ✅     |
+| 2   | 국립강릉원주대학교 | Gangneung-Wonju National University        | National | https://www.gwnu.ac.kr    | https://www.gwnu.ac.kr/life/scholarship.do                       | https://www.gwnu.ac.kr/life/notice.do                       | ✅     |
+| 3   | 상지대학교         | Sangji University                          | Private  | https://www.sangji.ac.kr  | N/A                                                              | https://www.sangji.ac.kr/sangji/222/subview.do              | ✅     |
+| 4   | 한라대학교         | Halla University                           | Private  | https://www.halla.ac.kr   | https://www.halla.ac.kr/halla/201/subview.do                     | https://www.halla.ac.kr/halla/202/subview.do                | ✅     |
+| 5   | 한림대학교         | Hallym University                          | Private  | https://www.hallym.ac.kr  | https://www.hallym.ac.kr/hallym/231/subview.do                   | https://www.hallym.ac.kr/hallym/232/subview.do              | ✅     |
+| 6   | 춘천교육대학교     | Chuncheon National University of Education | National | https://www.cnue.ac.kr    | N/A                                                              | https://www.cnue.ac.kr/cnue/202/subview.do                  | ✅     |
+| 7   | 강원관광대학교     | Gangwon Tourism University                 | Private  | https://www.gtu.ac.kr     | N/A - Website permanently inaccessible                           | N/A                                                         | ❌     |
 
 ### Chungbuk (충북) - 19 Universities
 
@@ -275,8 +275,8 @@ Note: Wikipedia lists approximately 190 institutions but may not be as up-to-dat
 | --- | -------------- | ----------------------------------------- | -------- | ------------------------ | ---------------------------------------------- | ----------------------------------------------------- | ------ |
 | 1   | 충북대학교     | Chungbuk National University              | National | https://www.cbnu.ac.kr   | https://www.cbnu.ac.kr/www/contents.do?key=491 | https://www.cbnu.ac.kr/www/selectBbsList.do?bbsCd=104 | ✅     |
 | 2   | 국립공주대학교 | Kongju National University                | National | https://www.kongju.ac.kr | https://www.kongju.ac.kr/KNU/16842/subview.do  | https://www.kongju.ac.kr/KNU/16843/subview.do         | ✅     |
-| 3   | 서원대학교     | Seowon University                         | Private  | https://www.seowon.ac.kr | N/A                                            | N/A                                                   | ✅     |
-| 4   | 청주대학교     | Cheongju University                       | Private  | https://www.cju.ac.kr    | N/A                                            | https://www.cju.ac.kr/cju/232/subview.do              | ✅     |
+| 3   | 서원대학교     | Seowon University                         | Private  | https://www.seowon.ac.kr | https://www.seowon.ac.kr/seowon/655/subview.do | https://www.seowon.ac.kr/bbs/seowon/658/artclList.do  | ✅     |
+| 4   | 청주대학교     | Cheongju University                       | Private  | https://www.cju.ac.kr    | https://www.cju.ac.kr/www/contents.do?key=6979 | https://www.cju.ac.kr/www/selectBbsNttList.do?bbsNo=5 | ✅     |
 | 5   | 충주대학교     | Chungju National University               | Private  | https://www.cju.ac.kr    | N/A                                            | N/A                                                   | ✅     |
 | 6   | 극동대학교     | Far East University                       | Private  | N/A                      | N/A/feu/211/subview.do                         | N/A/feu/212/subview.do                                | ✅     |
 | 7   | 청주교육대학교 | Cheongju National University of Education | National | N/A                      | N/A                                            | https://www.cue.ac.kr/cue/202/subview.do              | ✅     |
