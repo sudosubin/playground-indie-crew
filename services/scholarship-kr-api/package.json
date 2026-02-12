@@ -1,0 +1,19 @@
+{
+  "name": "@playground-indie-crew/scholarship-kr-api",
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "fetch": "tsx scripts/fetch-all.ts",
+    "fetch:single": "tsx"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "ky": "^1.2.0",
+    "playwright": "^1.41.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.0.0",
+    "tsx": "^4.0.0",
+    "typescript": "^5.0.0"
+  }
+}
