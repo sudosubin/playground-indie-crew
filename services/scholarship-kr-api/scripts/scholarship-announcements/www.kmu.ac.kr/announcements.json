@@ -1,0 +1,36 @@
+{
+  "university": "University_2",
+  "url": "https://www.kmu.ac.kr/uni/main/page.jsp?mnu_uid=3347",
+  "fetchedAt": "2026-02-12T16:13:51.417Z",
+  "count": 4,
+  "announcements": [
+    {
+      "title": "신입생장학금\n\t\t\t\t재학생장학금\n\t\t\t\t국가장학금\n\t\t\t\t근로장학금",
+      "link": "https://janghak.kmu.ac.kr/janghak/9307/subview.do",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "학자금대출 개요\n\t\t\t\t농어촌 학자금 융자사업\n\t\t\t\t학자금대출 흐름도",
+      "link": "https://janghak.kmu.ac.kr/janghak/9319/subview.do",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "장학Q&A",
+      "link": "https://janghak.kmu.ac.kr/janghak/9326/subview.do",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "자료실",
+      "link": "https://janghak.kmu.ac.kr/janghak/9327/subview.do",
+      "date": "",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+{
+  "university": "University_3",
+  "url": "https://www.suwon.ac.kr/index.html?menuno=883",
+  "fetchedAt": "2026-02-12T16:14:29.018Z",
+  "count": 20,
+  "announcements": [
+    {
+      "title": "수능성적 1.8등급 이내인 자 (수능전형1의 반영영역비율적용. 단, 예체능은 인문계열비율 적용)",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(4년)(매월 학업장려금 50만원 지급)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "학생부 반영교과 2.5등급 이내인 자(예체능계열 3.0등급) 단, 정원외전형 제외",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "본교 수시모집 각 전형의 입학성적(총점)이 모집인원의 5%이내인 최초합격자(미등록으로 인한 장학금 승계 안 됨)",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수시 교과우수전형 최종합격자 중 모집단위별 전형 총점 최상위자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수시 교과논술전형 최종합격자 중 모집단위별 전형 총점 최상위자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수시 교과논술전형 최종합격자 중 모집단위별 전형 총점 차상위자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금의 50%(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수시 실기우수전형 최종합격자 중 모집단위별 전형 총점 최상위자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "정시 입학성적 전체수석",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(4년)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "정시 입학성적 전체차석",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(2년)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "정시 입학성적 단과대학수석",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1년)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "형제자매 동시 재학 시 한 학생",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금 30%(동시 재학기간)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수능성적 2.0등급 이내인 자(수능전형1의 반영영역비율적용. 단, 예체능은 인문계열비율 적용)",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(4년)(매월 학업장려금 30만원 지급)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "특성화학부 최종등록자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금 30%(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "본교 입학자 중 부, 모 중 1인이 본교 학부 졸업생에 해당하는 자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "본교 재단에서 유지, 경영하는 재단 임직원 직계자녀 및 학교 교직원 직계자녀",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "법이 정하는 원호대상자 및 그 직계자녀",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "법이 정하는 북한이탈주민 및 그 직계자녀",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "매년 본교 주최 콩쿨에서 대상 및 최우수상 입상자 중 본교 입학자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "대상 : 등록금전액(4년)\n각 부문 1등상 : 등록금전액(1년)\n각 부문 2~3등상 : 등록금 50%(1년)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "매년 본교 주최 미술실기대회에서 대상 입상자 중 본교 입학자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "대상 : 등록금전액(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "외국인 전형으로 입학한 자",
+      "link": "https://www.suwon.ac.kr",
+      "date": "등록금의 30% ~ 60%",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

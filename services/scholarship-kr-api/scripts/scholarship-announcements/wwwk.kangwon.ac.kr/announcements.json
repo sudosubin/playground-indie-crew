@@ -1,0 +1,57 @@
+{
+  "university": "University_1",
+  "url": "https://wwwk.kangwon.ac.kr/www/selectTnSchlshipListU.do?key=2371",
+  "fetchedAt": "2026-02-12T16:12:45.773Z",
+  "count": 7,
+  "announcements": [
+    {
+      "title": "춘천\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    삼척",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "전체\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    국가\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    교내\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    교외\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t$('#sa2_0').prop('checked', true);\n\t\t\t\t\n\n\t\t\t\t$('#sa2_0').on('click', function() {\n\t\t\t\t\tif($(this).is(':checked')) {\n\t\t\t\t\t\t$('input[name=sa2]:checked').prop('checked', false);\n\t\t\t\t\t}\n\t\t\t\t});\n\n\t\t\t\t$('input[name=sa2]').on('click', function() {\n\t\t\t\t\tconsole.log('clicked');\n\t\t\t\t\tif($('input[name=sa2]:checked').length > 0) {\n\t\t\t\t\t\t$('#sa2_0').prop('checked', false);\n\t\t\t\t\t}\n\t\t\t\t});",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "등록금보조\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    생활비지원",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "내국인\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    외국인",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입생\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    재학생",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "전학년\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    1학년\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    2학년\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    3학년\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    4학년\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    5학년\n\t\t\t\t\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t$('#sa6_0').prop('checked', true);\n\t\t\t\t\n\n\t\t\t\t$('#sa6_0').on('click', function() {\n\t\t\t\t\tif($(this).is(':checked')) {\n\t\t\t\t\t\t$('input[name=sa6]:checked').prop('checked', false);\n\t\t\t\t\t}\n\t\t\t\t});\n\n\t\t\t\t$('input[name=sa6]').on('click', function() {\n\t\t\t\t\tconsole.log('clicked');\n\t\t\t\t\tif($('input[name=sa6]:checked').length > 0) {\n\t\t\t\t\t\t$('#sa6_0').prop('checked', false);\n\t\t\t\t\t}\n\t\t\t\t});",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "0~8구간\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    9구간\n\t\t\t\t\n\n\t\t\t\t\n\t\t\t\t    \n\t\t\t\t    제한없음",
+      "link": "https://wwwk.kangwon.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

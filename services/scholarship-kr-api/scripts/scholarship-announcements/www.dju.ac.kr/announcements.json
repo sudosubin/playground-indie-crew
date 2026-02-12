@@ -1,0 +1,673 @@
+{
+  "university": "University_5",
+  "url": "https://www.dju.ac.kr/dju/cm/cntnts/cntntsView.do?mi=1172&cntntsId=1064",
+  "fetchedAt": "2026-02-12T16:13:17.834Z",
+  "count": 95,
+  "announcements": [
+    {
+      "title": "(한의예과,군사학과제외)\n               \n                  공통기준 : 영어영역 2등급 이내, 탐구영역 (직업탐구제외)은 2과목 평균 반영 \n                  일반학과(부) : 국어, 수학, 탐구영역 중 2개 영역 백분위 합이 160점 이상\n                  간호학과, 물리치료학과 : 국어, 수학, 탐구영역 백분위 합이 240점 이상",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "-",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금일부",
+      "author": "첫학기",
+      "views": 0
+    },
+    {
+      "title": "수능반영영역이평균2등급이내인자(수능반영영역:국어,수학,영어)",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 4.0 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "link": "https://www.dju.ac.kr",
+      "date": "수업료일부",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "모집단위별 수석, 차석",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "수업료일부",
+      "views": 0
+    },
+    {
+      "title": "단대대학별 수석, 차석",
+      "link": "https://www.dju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "전형별 수석, 차석(단, 한의예과는 인문/자연 통합하여 1명)",
+      "link": "https://www.dju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "군사학과(남) : 수석, 차석 \n                   군사학과(여) : 수석",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "수업료일부",
+      "views": 0
+    },
+    {
+      "title": "커뮤니케이션디자인학과, 영상애니메이션학과, 공연예술콘텐츠학과, 생활체육학과, 건강운동관리학과 : 각 모집단위별 수석",
+      "link": "https://www.dju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "검도,펜싱,정구,복싱 특기자",
+      "link": "https://www.dju.ac.kr",
+      "date": "입학",
+      "author": "등록금전액",
+      "views": 1
+    },
+    {
+      "title": "전체수석",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "단대수석",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "(한의예과,군사학과제외)\n               \n                  공통기준 : 영어영역 2등급 이내, 탐구영역 (직업탐구제외)은 2과목 평균 반영 \n                  일반학과(부) : 국어, 수학, 탐구영역 중 2개 영역 백분위 합이 160점 이상 \n                  간호학과, 물리치료학과 : 국어, 수학, 탐구영역 백분위 합이 240점 이상",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "-",
+      "link": "https://www.dju.ac.kr",
+      "date": "수업료일부",
+      "author": "첫학기",
+      "views": 0
+    },
+    {
+      "title": "수능반영영역이평균2등급이내인자(수능반영영역:국어,수학,영어)",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 4.0 이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "link": "https://www.dju.ac.kr",
+      "date": "수업료일부",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "모집단위별 수석,차석",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득 평점평균 3.5 이상",
+      "author": "수업료 일부",
+      "views": 0
+    },
+    {
+      "title": "최우수성적",
+      "link": "https://www.dju.ac.kr",
+      "date": "학과인원이180명이상일경우학년별최우수학과인원이180명미만일경우학과2명최우수",
+      "author": "직전학기15학점이상취득(최종학년은10학점),평점평균3.0이상F,N,,미이수과목있을경우제외1,2학년:토익하한선적용3,4학년:토익하한선적용,취업대특강이수한의학과는취업대특강제외",
+      "views": 0
+    },
+    {
+      "title": "학과학년별 재학 인원에 따라 차등 배정",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금70%",
+      "author": "매학기",
+      "views": 0
+    },
+    {
+      "title": "학과학년별 재학 인원에 따라 차등 배정",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금50%",
+      "author": "매학기",
+      "views": 0
+    },
+    {
+      "title": "학과 학년별 재학 인원에 따라 차등 배정",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금30%",
+      "author": "매학기",
+      "views": 0
+    },
+    {
+      "title": "학과 학년별 재학 인원에 따라 차등 배정",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금15%",
+      "author": "매학기",
+      "views": 0
+    },
+    {
+      "title": "복지",
+      "link": "https://www.dju.ac.kr",
+      "date": "국가장학금 1~8분위 대상자",
+      "author": "직전학기12학점이상 취득, 백분위점수 80점 이상",
+      "views": 0
+    },
+    {
+      "title": "국가장학금0분위(기초생활수급자) 대상자",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기12학점이상 취득, 백분위점수 80점 이상",
+      "author": "등록금의20%",
+      "views": 0
+    },
+    {
+      "title": "다자녀:3자녀이상\n                  중증질병및상해:1년이상연속된의료비정산서\n                  실직가정,재난및재해:주민센터확인서\n                  긴급가계곤란자:부도또는파산관계서류\n                  희망장학금:부모중장애등급1~3급\n                  다문화가정자녀:부모중 한사람이 외국인인 자(귀화자,결혼이민자 포함)\n                  기타:경제적어려움을소명할수있는자",
+      "link": "https://www.dju.ac.kr",
+      "date": "장학사정관 심사에 의해서 차등 지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "교내행정부서 및 학과 근로학생으로 선정된 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "최저시급",
+      "views": 0
+    },
+    {
+      "title": "당해학기 국가장학금 신청자로 성적기준 미달로 수혜받지 못한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기백분위점수 80점 미만",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "교직원자녀",
+      "link": "https://www.dju.ac.kr",
+      "date": "전임교원 , 정규직원직계자녀<삭제>",
+      "author": "직전학기15학점이상취득(최종학년은10학점)평점평균3.0(단,유급제도 시행학과는 2.5)이상F,N,미이수과목있을경우제외",
+      "views": 0
+    },
+    {
+      "title": "법인임직원,부속병원및혜화병원정규직원 직계자녀학교설립유공자직계자녀",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금의50%",
+      "author": "매학기",
+      "views": 0
+    },
+    {
+      "title": "장애지원센터에 등록된 장애학생",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기실점수평균 70점 이상",
+      "author": "중증:100만원경증:30만원",
+      "views": 0
+    },
+    {
+      "title": "본교재학생 부모중 1인이 본교 졸업생인 경우",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득(최종학년은10학점)평점평균3.0이상F,N,미이수과목있을경우제외",
+      "author": "30만원",
+      "views": 0
+    },
+    {
+      "title": "보훈청의 대학수업료 등 면제대상증명서를 발급받은 국가유공자본인 및 자녀",
+      "link": "https://www.dju.ac.kr",
+      "date": "본인:성적제한없음자녀:백분위점수70점이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "국내고등학교졸업또는고졸이상의학력을인정받은날로부터5년 이내에 입학 또는 편입학한 북한이탈주민",
+      "link": "https://www.dju.ac.kr",
+      "date": "본인:2회연속70점미만인자는제한자녀:백분위점수70점이상",
+      "author": "등록금전액",
+      "views": 0
+    },
+    {
+      "title": "국가고시(5급이상) 및 이에 준하는 고시1차.2차, 최종 합격자",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상취득(최종학년은10학점)평점평균이3.0이상F,N,미이수과목있을경우제외",
+      "author": "1차합격자:등록금의50%2차합격자:등록금전액최종합격자:등록금전액",
+      "views": 0
+    },
+    {
+      "title": "직계가족2인이상 재학자",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기성적 백분위점수 70점 이상인 재학생",
+      "author": "각50만원",
+      "views": 0
+    },
+    {
+      "title": "토플,IELTS,토픽이 일정 성적 이상인 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "성적별차등 지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "현장실습교과목, 유연학기제에 따른 집중이수제 및 DJU나노디그리교과목 이수자, 공유대학교과목 이수자, 산업체요구형 캡스톤디자인 이수자",
+      "link": "https://www.dju.ac.kr",
+      "date": "교과목 이수자",
+      "author": "수업료 전액",
+      "views": 0
+    },
+    {
+      "title": "편입학 등록자 전원",
+      "link": "https://www.dju.ac.kr",
+      "date": "본교 졸업자",
+      "author": "수업료의 70%",
+      "views": 0
+    },
+    {
+      "title": "수업료의 50%",
+      "link": "https://www.dju.ac.kr",
+      "date": "첫학기",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "자기추천(특별한 경험)",
+      "link": "https://www.dju.ac.kr",
+      "date": "자기주도적 특별한 경험을 통해 1년간 비전을 설계, 실행하는 자로서 5학기 이상 등록한 자",
+      "author": "직전학기 교내외 장학금 수혜내역이 없거나 일정금액 미만인 자, 직전학기평점평균 3.0 이상, 15학점 이상 이수, 재학중 1번 수혜",
+      "views": 0
+    },
+    {
+      "title": "대외적으로대전대학교의 위상을 드높인 자 또는 장학금 지급이 필요하다고 인정한 자로 총장이 승인한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "체육특기자",
+      "link": "https://www.dju.ac.kr",
+      "date": "각종 대회에서 우수한 성적을 거둔 자",
+      "author": "제한없음",
+      "views": 0
+    },
+    {
+      "title": "체육특기자 중 전지훈련에 참가하는 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "전체학과",
+      "link": "https://www.dju.ac.kr",
+      "date": "교내·외공모전입상자나 학과홍보 및 전공특성화에 기여한 자",
+      "author": "제한없음",
+      "views": 0
+    },
+    {
+      "title": "군사학과 : 여학생 생활관지원비, 잠재역량(텝스,졸업인증),학과특성화,해외연수에참여한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "계약학과에재학중인자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금의15%",
+      "views": 0
+    },
+    {
+      "title": "정기토익",
+      "link": "https://www.dju.ac.kr",
+      "date": "본교에서 개최하는 정기토익 시험에 2회 아상 응시한 자",
+      "author": "500점 이상 취득자",
+      "views": 0
+    },
+    {
+      "title": "토익캠프 참여자",
+      "link": "https://www.dju.ac.kr",
+      "date": "토익캠프 수료자",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "어학관련 프로그램 참여자",
+      "link": "https://www.dju.ac.kr",
+      "date": "프로그램 이수자",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "재학생직무체험",
+      "link": "https://www.dju.ac.kr",
+      "date": "재학생 직무체험 직무연수 수료자",
+      "author": "수료자",
+      "views": 0
+    },
+    {
+      "title": "4학년2학기 재학중 인 자로 해외취업알선사업 참가자 또는 해외취업기관에 근로계약이 체결된자",
+      "link": "https://www.dju.ac.kr",
+      "date": "지급요건충족시 차등지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "엘리트코칭참가자 취·창업지원팀 주관 취업동아리 참가자",
+      "link": "https://www.dju.ac.kr",
+      "date": "평가 후 차등지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "취업리포터즈로 선발되어 활동한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "평가 후 지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "취업역량 제고를 위한 교육과정 수료자",
+      "link": "https://www.dju.ac.kr",
+      "date": "평가 후 지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "학생회임원봉사",
+      "link": "https://www.dju.ac.kr",
+      "date": "총학생회, 단과대학학생회 임원, 동아리연합회 임원,전학대 의장, 학회장",
+      "author": "제한없음",
+      "views": 0
+    },
+    {
+      "title": "국외봉사 참가자 중 타의 모범이 되는 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "통역의전요원,유학생봉사요원,유학생임원,버디",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "각종행사 및 교내·외 부서 업무에 참여한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "행사공로",
+      "link": "https://www.dju.ac.kr",
+      "date": "대동제, 비전위크, 길거리, 벚꽃나들이등 각종 행사에 참여한 자",
+      "author": "제한없음",
+      "views": 0
+    },
+    {
+      "title": "HRC 튜터, 프로그램 참여자 등",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "푸른별홍보대사로 선발되어 학교 홍보관련 행사 참여한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "학교 투어 지원자, 고교 초청행사 지원자,재학생 중 출신고교를 대상으로 입시홍보한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "모범후보생,학군여학우집체장학금,입영훈련우수자,문화탐방참여자,리더십,자치근무자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "아너스장학금",
+      "link": "https://www.dju.ac.kr",
+      "date": "프로그램참가(적극성)및교육성과우수자",
+      "author": "평가 후 차등지급",
+      "views": 0
+    },
+    {
+      "title": "최근 2개학기 성적을 비교하여 큰 폭으로 향상된 학생에게 지급",
+      "link": "https://www.dju.ac.kr",
+      "date": "평점평균이1.1~2.0 이상 향상했을 경우",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "교내 각종 공모전 및 경시대회에서 우수한 성적을 거둔 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "파견희망국공인어학능력성적소지자 중교환학생으로선발된2-3학년재학생",
+      "link": "https://www.dju.ac.kr",
+      "date": "전체학기평균평점3.0이상학생",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "하계-동계단기해외연수프로그램이수자,단기해외연수자글로벌인사이트결과보고대회발표우수팀",
+      "link": "https://www.dju.ac.kr",
+      "date": "전체학기평균 평점 3.0이상 학생",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "도서포인트(70%)+좌석이용포인트(30%)의누적포인트 이수자",
+      "link": "https://www.dju.ac.kr",
+      "date": "누적포인트로 선정",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "도서관 추천도서를 읽고 시험 패스한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "독서인증Point누적결과에따라지급",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "6개영역에 마일리지부여하여 누적점수가 500점이상일 경우 장학금으로 전환",
+      "link": "https://www.dju.ac.kr",
+      "date": "직전학기15학점이상신청,평점2.0이상",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "비전탐색,비전설계,DUIMS,블로그기자단,ASEAN포럼,스포츠건강체력,학생홍보단,현장실습 등 학생 역량을 위한 프로그램 참여자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "발전기금 및 장학기금으로 적립된 장학금으로 해당부서의 지급요청에 의해 지급",
+      "link": "https://www.dju.ac.kr",
+      "date": "성적제한없음",
+      "author": "등록금일부",
+      "views": 0
+    },
+    {
+      "title": "융·복합 전공교육과정 이수학생",
+      "link": "https://www.dju.ac.kr",
+      "date": "해당학기 평점평균 3.5이상, 동일학기 융·복합전공교과목[제1전공(주전공)포함]의 6학점 이상 이수 자 성적순 선발",
+      "author": "6학점이상 10만원 9학점이상 20만원(총70명 이내)",
+      "views": 0
+    },
+    {
+      "title": "비교과프로그램 참가자에 포인트부여하여 누적포인트가 있는자",
+      "link": "https://www.dju.ac.kr",
+      "date": "누적포인트로 선발",
+      "author": "등록금 일부",
+      "views": 0
+    },
+    {
+      "title": "국가장학금Ⅰ유형",
+      "link": "https://www.dju.ac.kr",
+      "date": "한국장학재단의 소득분위 확인결과 승인 완료자(소득분위0~8분위)",
+      "author": "재학중 직전학기백분위점수 이상, 취득학점 12학점(단,1~3분위:2회한하여 직전학기 백분위점수70점이상)",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단의 소득분위 확인결과 승인 완료자",
+      "link": "https://www.dju.ac.kr",
+      "date": "국가장학금1유형에 준하며,지급계획에 따라 매학기 변동",
+      "author": "소득분위별차등지급(지급계획에따라변동)",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단 지역인재장학금 지급규정에 따라 지급하며, 국가장학금 신청자 중 성적우수자 및 자체규정에 의하여 선발된 신입생",
+      "link": "https://www.dju.ac.kr",
+      "date": "계속장학생: 직전학기백분위점수80점 이상, 취득학점 12학점",
+      "author": "등록금전액(지급계획에따라변동)",
+      "views": 0
+    },
+    {
+      "title": "국가우수장학금(이공계)",
+      "link": "https://www.dju.ac.kr",
+      "date": "자연과학 및 공학계열 학과에 입학한 우수신입생,재학생",
+      "author": "계속장학생: 직전학기백분위점수87점 이상 또는 평점평균 3.5이상, 취득학점 12학점",
+      "views": 0
+    },
+    {
+      "title": "인문사회계열 학과에 입학한 자 중 대학 총장의 추천을 받은 우수 신입생",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금 전액",
+      "author": "수시",
+      "views": 0
+    },
+    {
+      "title": "인문사회계열 3학년 진급자 중 해당대학의 자체규정에 의거하여 선발, 추천된 자 중 한국장학재단 심사 선발",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금 전액",
+      "author": "수시",
+      "views": 0
+    },
+    {
+      "title": "예체능계열 3학년 진급자 중 대학 총장의 추천을 받은 자 중 한국장학재단 심사 선발",
+      "link": "https://www.dju.ac.kr",
+      "date": "등록금 전액",
+      "author": "수시",
+      "views": 0
+    },
+    {
+      "title": "농업인자녀장학금",
+      "link": "https://www.dju.ac.kr",
+      "date": "농업인 자녀 중 신청자(학과, 전공 제한 없음)국가장학금 0~8분위만 신청가능",
+      "author": "재학중 직전학기 백분위점수80점이상,취득학점 12학점(농어촌희망재단 지급계획에 따라 변동가능)",
+      "views": 0
+    },
+    {
+      "title": "청소년교육지원",
+      "link": "https://www.dju.ac.kr",
+      "date": "지자체 지역아동센터나 사회봉사기관에서 봉사프로그램에 참여한 자",
+      "author": "제한없음",
+      "views": 0
+    },
+    {
+      "title": "다문화멘토링 프로그램에 참여한 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "제한없음",
+      "author": "등록금 일부",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단 국가근로장학생 신청자 중 교내외 근로학생",
+      "link": "https://www.dju.ac.kr",
+      "date": "교내:소득1순위(소득분위0~4분위)교외:소득분위상관없음",
+      "author": "장학재단 기준금액",
+      "views": 0
+    },
+    {
+      "title": "보훈장학금",
+      "link": "https://www.dju.ac.kr",
+      "date": "보훈청의 대학수업료 등 면제대상증명서를 발급받은 국가유공자 자녀",
+      "author": "직전학기 백분위점수 70점이상",
+      "views": 0
+    },
+    {
+      "title": "새터민",
+      "link": "https://www.dju.ac.kr",
+      "date": "국내고등학교졸업또는고졸이상의학력을인정받은날로부터5년 이내에 입학 또는 편입학한 북한이탈주민",
+      "author": "본인:2회 연속70점 미만인 자는 제한 자녀:백분위점수70점이상",
+      "views": 0
+    },
+    {
+      "title": "의용소방대자녀장학금",
+      "link": "https://www.dju.ac.kr",
+      "date": "의용소방대에서 선발된 자",
+      "author": "의용소방대 기준에 준함",
+      "views": 0
+    },
+    {
+      "title": "새마을지도자 자녀로 선발된 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "새마을회 기준에 준함",
+      "author": "등록금 일부",
+      "views": 0
+    },
+    {
+      "title": "각 지방자치단체별로 추천을 받은 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "각 지방자치단체가 정한 기준에 따라 지급",
+      "author": "등록금 일부",
+      "views": 0
+    },
+    {
+      "title": "(재)서울장학재단 선발 및 추천을 받은 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "(재)서울장학재단기준에 의함",
+      "author": "등록금 일부",
+      "views": 0
+    },
+    {
+      "title": "푸른등대기부장학금",
+      "link": "https://www.dju.ac.kr",
+      "date": "각 기부처별로 신청자격 요건을 충족하는 자각 기부처별로 요건에 따라 신청대상,성적기준 등 상이",
+      "author": "재학중 직전학기 백분위점수 70점 이상, 취득학점 12학점 해당 기관에 준함",
+      "views": 0
+    },
+    {
+      "title": "가정형편이 곤란하고 타의 모범이 되는 자로서 단과대학장 추천을 받은 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "재학중 직전학기 평점평균 4.0 이상, 학업석차 5%이내인 자",
+      "author": "등록금 전액",
+      "views": 0
+    },
+    {
+      "title": "외부 기관 및 장학단체 또는 개인으로 부터 추천을 받은 자",
+      "link": "https://www.dju.ac.kr",
+      "date": "외부 기관 및 장학단체 또는 개인이 정한 기준에 따라 지급",
+      "author": "등록금 일부",
+      "views": 0
+    }
+  ]
+}

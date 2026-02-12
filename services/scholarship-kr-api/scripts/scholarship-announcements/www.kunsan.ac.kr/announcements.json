@@ -1,0 +1,57 @@
+{
+  "university": "University_5",
+  "url": "https://www.kunsan.ac.kr/kunsan/241/subview.do",
+  "fetchedAt": "2026-02-12T16:13:35.463Z",
+  "count": 7,
+  "announcements": [
+    {
+      "title": "1차",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 6.(금) 12:00",
+      "author": "2. 6.(금) 12:00 ~ 2. 7.(토) 12:00",
+      "views": 0
+    },
+    {
+      "title": "2. 7.(토) 16:00 예정",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 7.(토) 16:00 ~ 2. 8.(일) 12:00",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "2. 8.(일) 16:00 예정",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 8.(일) 16:00 ~ 2. 9.(월) 11:00",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "4차",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 9.(월) 14:00 ~ 18:00 예정",
+      "author": "2. 9.(월) 18:00 ~ 2. 10.(화) 11:00",
+      "views": 0
+    },
+    {
+      "title": "2. 10.(화) 14:00 ~ 18:00 예정",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 10.(화) 16:00 ~ 2. 11.(수) 11:00",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "2. 11.(수) 14:00 ~ 18:00 예정",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 11.(수) 16:00 ~ 2. 12.(목) 11:00",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "2. 12.(목) 14:00 ~ 18:00 까지",
+      "link": "https://www.kunsan.ac.kr",
+      "date": "2. 12.(목) 16:00 ~ 2. 13.(금) 16:00",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

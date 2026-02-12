@@ -1,0 +1,393 @@
+{
+  "university": "University_10",
+  "url": "https://www.pcu.ac.kr/kor/contents/33",
+  "fetchedAt": "2026-02-12T16:18:30.018Z",
+  "count": 55,
+  "announcements": [
+    {
+      "title": "배재아펜젤러장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "전체수석",
+      "author": "신입생",
+      "views": 4
+    },
+    {
+      "title": "배재하워드장학금(국, 수, 영 영역)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "수능성적 2개 영역 이상에서 국어 1등급, 수학 1등급, 영어 1등급",
+      "author": "신입생",
+      "views": 4
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "2년 등록금 전액",
+      "author": "직전학기 평점평균 3.7 이상, 취득학점 15 이상",
+      "views": 0
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "1년 등록금 전액",
+      "author": "직전학기 평점평균 3.7 이상, 취득학점 15 이상",
+      "views": 0
+    },
+    {
+      "title": "특기입학장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "본교 주최 경연대회입상한 학생에게 지급",
+      "author": "신입생",
+      "views": 0
+    },
+    {
+      "title": "체육특기장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "체육특기자로 입학한 학생에게 지급",
+      "author": "신입생",
+      "views": 0
+    },
+    {
+      "title": "만학도장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "입학기준 만30세이상 학생에게 지급",
+      "author": "신입생, 편입생",
+      "views": 0
+    },
+    {
+      "title": "편입학장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "편입학 학생에게 지급",
+      "author": "편입학",
+      "views": 0
+    },
+    {
+      "title": "뉴스타트\n배재장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "신입생",
+      "author": "신입생",
+      "views": 200
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "등록금(최초학기)\n150만원",
+      "author": "2023학년도 수시모집 최초합격 중 대전·세종·충남·충북지역 소재 고등학교 졸업(예정)자에게 지급",
+      "views": 0
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "등록금(최초학기)\n100만원",
+      "author": "2023학년도 수시모집 최초합격 중 대전·세종·충남·충북지역 소재 고등학교 졸업(예정)자 이외에게 지급",
+      "views": 0
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "등록금(최초학기)\n150만원",
+      "author": "2023학년도 정시모집 합격자에게 지급",
+      "views": 0
+    },
+    {
+      "title": "나섬인재입학장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "수시모집 최초합격자",
+      "author": "신입생",
+      "views": 0
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "등록금(최초학기) 100만원",
+      "author": "2025학년도 정시모집 합격자에게 지급",
+      "views": 0
+    },
+    {
+      "title": "연계고교추천장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "수시모집 합격자 중 \n대학 연계 고교 3학년 부장 추천자",
+      "author": "신입생",
+      "views": 0
+    },
+    {
+      "title": "신입생",
+      "link": "https://www.pcu.ac.kr",
+      "date": "등록금(최초학기) 50만원",
+      "author": "2025학년도 정시모집 합격자 중 \n대학 연계 고교 3학년 부장 추천자 (중복수혜 가능)",
+      "views": 0
+    },
+    {
+      "title": "배재가족자녀장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "부 또는 모가 본교(배재중·고등학교 포함)를 \n졸업한 자의 자녀에게 지급",
+      "author": "신입생",
+      "views": 0
+    },
+    {
+      "title": "새터민장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "새터민가정 학생에게 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "대학교직원복지장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "본 대학에 재직하고 있는 교직원(정규직)의 자녀에게 정규학기까지 지급(정년퇴직 및 명예퇴직자에 대하여는 재직시와 동일하게 지급. 단, 계약직원의 경우에는 재직중에 한하여 지급) ",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "법인교직원복지장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "본 재단에 재직하고 있는 교직원(정규직)의 자녀에게 정규학기까지 지급(정년퇴직 및 명예퇴직자에 대하여는 재직시와 동일하게 지급. 단, 계약직원의 경우에는 재직중에 한하여 지급) ",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "배재사랑장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "장애학생 중 장애의 정도가 심한 장애인(1~3급)학생 에게 지급(2015년도 입학생부터) ",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "등록금 30%(중복수혜가능)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한가족장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "본교에 한가족(2촌이내) 중 2인 이상이 동시 재적시 재학생에게 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "교육직계장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "전국교육회 산하 교육자 자녀에게 지급(초,중,고 교사)자녀",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "교역직계장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "감리교 교역자 직계자녀에게 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "글로벌장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "외국인유학생에게 지급하며, 정부초청장학생은 국가에서 정한기준에 적용하고, 주시경장학생은 졸업시까지 전액장학금 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "성적전액장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학부(과)성적우수자",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "성적최우수장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학부(과)성적우수자",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "성적우수장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학부(과)성적우수자",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "영어성적우수장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "공인영어능력시험 우수자(TOEIC 900점) 또는        \n                                          이에 상응하는 TOEFL,  \n                                          TEPS 포함 단, 영어영문전공, 테솔과 950점 ",
+      "author": "재학생",
+      "views": 1
+    },
+    {
+      "title": "선복학장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "선복학자가 8학기에 해당하는 경우 성적장학생 선발기준에 의거 장학금 지급 ",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "다전공장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "복수전공, 연계전공, 융합전공 중 1개 이상의 전공을 이수 중인 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "성적향상장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "성적이 향상된 학생에게 성적에 따라 차등지급되며, 성적장학생(전액,최우수,우수)으로 선발된 학생은 제외",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "성적학습장려장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학사경고자로서 학습지원프로그램를 이수한 학생중 성적향상에 따라 차등지급(단, 성적향상장학금과 중복수혜 불가) ",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "희망복지장학금 ",
+      "link": "https://www.pcu.ac.kr",
+      "date": "기초생활수급자, 차상위본인부담경감대상자,        \n                                          한부모가족증명서를 제출한 학생에게 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "솔선장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "가계곤란 학생 중이거나 학과 기여도가 큰 학생으로 학부(과)의 추천을 받아 선발된 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "학생복지장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가장학금 신청자 중 소득분위 1~8분위 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "마중물장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "가계 곤란 학생 중 학부(과) 추천을 받아 선발된 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "격려장학금(학생자치기구)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학생자치기구 임원중 선출직으로 임명된 학생에게 지급",
+      "author": " 회장, 부회장, 사무국장",
+      "views": 0
+    },
+    {
+      "title": "격려장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가나 학교발전에 기여하거나 면학장려의 필요성이 있는 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "학부모 교육 자문위원 자녀 특별장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학부모 교육 자문위원으로 활동하는 자녀에게 장학금 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "체육진흥장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "체육부 소속 학생중 매학기 체육부장의 추천을 받은 학생에게 지급 ",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "총장격려장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가나 학교발전에 기여한 공로가 크다고 인정되는 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "학생군사교육단(ROTC)장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학생군사교육단에서 추천된 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "특별장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "재난 및 기타 특별한 사유로 인해 학생을 지원할 필요가 있는 경우",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "격려장학금(봉사)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "배재미디어센터 배재방송국장, 배재신문사국장, 배재영자신문사국장, 국제학생회장에게 지급",
+      "author": "회장, 국장",
+      "views": 0
+    },
+    {
+      "title": "학제개편장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학제개편으로 폐과된 학과 재학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "백산장학금\n                                          (교내행정도우미장학금)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "교내에서 근로하는 학생",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "백산복지장학금\n                                          (각 부서 사업 관련 장학명칭 사용)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "장학위원회에서 결정된 자격증 취득 학생 또는 교내 각 부서 사업 참가자 중 장학금 대상자에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "해외어학연수장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "교환학생 및 해외어학연수로 파견되는 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "글로벌배재장학금(우수재학생)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "우수 재학생에게 해외연수 장학금으로 지급",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "국가근로장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가근로장학생(일반,장애 유형)으로 선정된 학생에게 지급 ",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "국가장학금 II유형(교비대응)",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가장학금 신청자중 소득분위 산정완료 학생에게 소득분위별로 차등지급(지급계획에 따라 반영)",
+      "author": "재학생",
+      "views": 0
+    },
+    {
+      "title": "국가유공장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "국가보훈대상자(본인) 및 직계자녀에게 지급",
+      "author": "신입생,재학생",
+      "views": 0
+    },
+    {
+      "title": "천사장학금, 후원의집장학금, 불우학우면학장학금 등 각 학과 추천장학금",
+      "link": "https://www.pcu.ac.kr",
+      "date": "학부(과)의 추천을 받은 학생에게 지급",
+      "author": "재학생",
+      "views": 0
+    }
+  ]
+}

@@ -1,0 +1,316 @@
+{
+  "university": "University_2",
+  "url": "https://www.kongju.ac.kr/KNU/16842/subview.do",
+  "fetchedAt": "2026-02-12T16:14:12.425Z",
+  "count": 44,
+  "announcements": [
+    {
+      "title": "성적우수(단과대학‧자율전공 수석)",
+      "link": "https://www.kongju.ac.kr",
+      "date": "단과대학 입학전형총점 최상위자 및 자율전공학부 모집단위별 입학전형총점 최상위자 ※ 수시‧정시 통합하여 산정하며 후순위자 배정없음",
+      "author": "2년간 수업료 전액",
+      "views": 0
+    },
+    {
+      "title": "모집단위별 입학전형총점 최상위자(자율전공학부 제외) ※ 수시‧정시 통합하여 산정하며 단과대학‧자율전공수석 해당 모집단위는 후순위자 배정없음※ 입학정원 10명 미만 선발 학과 제외",
+      "link": "https://www.kongju.ac.kr",
+      "date": "입학학기수업료 전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "모집단위별 입학전형총점 성적우수자(입학정원의 30%)※ 수시‧정시 통합하여 산정하며 후순위자 배정없음",
+      "link": "https://www.kongju.ac.kr",
+      "date": "입학학기 수업료 20%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수업료 일부",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "행복",
+      "link": "https://www.kongju.ac.kr",
+      "date": "저소득층 등 경제적 사정이 곤란한 학생 \n         \n         한국장학재단 소득구간 9구간 이하 학생 중 선발 \n         직전학기 학사경고자 제외",
+      "author": "수업료 일부",
+      "views": 0
+    },
+    {
+      "title": "특수교육",
+      "link": "https://www.kongju.ac.kr",
+      "date": "특수교육대상자로 입학한 자 또는 장애정도가 심한 장애인(중증) 등급을 받은 재학생 \n         \n         장애인증명서 또는 장애인복지카드 제출 \n         직전학기 학사경고자 제외",
+      "author": "2019학년도 이전 입학자 \n       \n       1급: 수업료 전액 \n       2급: 수업료 80% \n       3급: 수업료 20% \n       2020학년도 이후 입학자: 수업료 60%",
+      "views": 0
+    },
+    {
+      "title": "국가유공자 본인 \n         \n         교육지원대상자증명서 제출",
+      "link": "https://www.kongju.ac.kr",
+      "date": "수업료 전액(수업연한 제한 없음)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수업료 전액",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "북한이탈주민 교육보호대상자 \n         \n         교육지원대상자증명서 제출 ※ 「북한이탈주민의 보호 및 정착지원에 관한 법률」",
+      "link": "https://www.kongju.ac.kr",
+      "date": "수업료 전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단 소득구간 6구간 이하 학생 중 선발 \n         \n         한국장학재단 국가근로장학금 신청가능 성적 기준 적용",
+      "link": "https://www.kongju.ac.kr",
+      "date": "50만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "선행근로",
+      "link": "https://www.kongju.ac.kr",
+      "date": "근로 장학생으로 선발된 재학생 \n         \n         품행이 단정하고 가정형편이 곤란한 학생으로 행정부서 및 각 학과에서 근로를 제공하는 학생",
+      "author": "근로시간 수에 따름",
+      "views": 0
+    },
+    {
+      "title": "우수선수",
+      "link": "https://www.kongju.ac.kr",
+      "date": "체육특기생으로 입학한 자 \n         \n         (1∼2학년) 직전학기 성적 평점평균 2.50 이상 \n         (3∼4학년) 직전학기 성적 평점평균 2.50 이상, 직전학년도 전국규모 대회 입상자 ※ 성적 및 입상 계속 유지조건 ※ 입상자 인정 기준: 신입생 수시모집 특기자전형 지원 자격 기준과 동일 ※ 천재지변이나 재난으로 인하여 예외적인 상황이 발생할 경우, 체육진흥원에서 추천된 자를 장학위원회의 심의결과에 따라 장학금 지급",
+      "author": "수업료 전액",
+      "views": 0
+    },
+    {
+      "title": "어학성적우수자(입학 후 취득점수) \n         \n         (토익) 일반학과: 850점 이상 영어관련학과: 900점 이상 \n         (토플IBT) 일반학과: 98점 이상 영어관련학과: 105점 이상 \n         (OPIC) IH 이상 \n         (토익스피킹) 160점 이상 \n         (JPT) 800점 이상 \n         (HSK) 6급 ※ 영어관련학과: 영어교육과, 영어영문학과, 관광&영어통역융복합학과 ※ 모의토익은 미인정 ※ 타 장학금 수혜로 신청학기 지급 가능액이 등록금액을 초과할 경우 다음 학기에 지급",
+      "link": "https://www.kongju.ac.kr",
+      "date": "수업료 40%(재학 중 1회)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "수업료 40%(재학 중 1회)",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "학생활동 등 대학 발전 유공자 \n         \n         직전학기 학사경고자 제외",
+      "link": "https://www.kongju.ac.kr",
+      "date": "등급별 \n       \n       A등급: 수업료 전액 \n       B등급: 수업료 80% \n       C등급: 수업료 60% \n       D등급: 수업료 20%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "외국인특별전형 또는 재외동포재단 초청사업에 따라 지원한 외국인 학생 \n         \n         재학생의 경우, 직전학기 성적 평점평균 3.0이상",
+      "link": "https://www.kongju.ac.kr",
+      "date": "수업료 20%※ (신‧편입생) TOPIK 4급 이상자: 입학학기 수업료 40% 추가 지급",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "복수학위제 협정서에 따라 본교에서 수학하는 외국인 학생 \n         \n         재학생의 경우, 직전학기 성적 평점평균 3.0 이상",
+      "link": "https://www.kongju.ac.kr",
+      "date": "수업료 20%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "영역별 VALUE UP 인재 인증 마일리지 취득자 \n         \n         영역별 300마일리지 이상 취득한 학생 중 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "자체 선발기준에 따라 차등지급",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "부서 자체 지급기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "부서 자체 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "성적우수",
+      "link": "https://www.kongju.ac.kr",
+      "date": "신입생으로 학과 추천자",
+      "author": "당해연도 예산의 범위 내에서 수업료 일부 지원",
+      "views": 0
+    },
+    {
+      "title": "수업료 일부",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "행복",
+      "link": "https://www.kongju.ac.kr",
+      "date": "기초생활수급자, 차상위계층 또는 한국장학재단 소득구간 4구간 이하 해당 학생으로 학과 추천자 - 증빙서류(학자금지원구간통지서 등) 제출 - 직전학기 성적 평점평균 3.0이상",
+      "author": "당해연도 예산의 범위 내에서 수업료 일부 지원",
+      "views": 0
+    },
+    {
+      "title": "특수교육",
+      "link": "https://www.kongju.ac.kr",
+      "date": "특수교육대상자로 입학자 또는 장애정도가 심한 장애인(중증) 등급을 받은 재학생  - 2019학년도 이전 입학자: 1급~3급인 자  - 2020학년도 이후 입학자: 장애정도가 심한 장애인(중증)  - 장애인증명서 또는 장애인복지카드 제출  - 직전학기 성적 평점평균 2.51 이상",
+      "author": "당해연도 예산의 범위 내에서 수업료 일부 지원",
+      "views": 0
+    },
+    {
+      "title": "연구지원 근로",
+      "link": "https://www.kongju.ac.kr",
+      "date": "근로 장학생으로 선발된 재학생  - 품행이 단정하고 가정형편이 곤란한 학생으로 행정부서 및 각 학과에서 근로를 제공하는 학생",
+      "author": "근로시간 수에 따름",
+      "views": 0
+    },
+    {
+      "title": "대학원 지급계획에 따라 지도교수 추천자  - 주 20시간 이내, 월 최대 40시간 근무",
+      "link": "https://www.kongju.ac.kr",
+      "date": "대학회계 예산 범위 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "정부위탁(군위탁)",
+      "link": "https://www.kongju.ac.kr",
+      "date": "대학 등의 정원외 위탁학생에 관한 규칙에 따른 군위탁 전형으로 입학한 자재학생의 경우, 직전학기 성적 평점평균 3.0 이상(계속 유지 조건)",
+      "author": "(입학금+수업료)의 30%",
+      "views": 0
+    },
+    {
+      "title": "학생활동으로 대학 발전 유공자  - 직전학기 성적 평점평균 3.0 이상 ※ 재학생이 500명 이상이고 원우회를 구성하여 운영하는 대학원에 지급 ※ [별표] 3. 공로장학금 상세 내역에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "당해연도 예산의 범위 내에서 수업료 일부 지원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "외국인특별전형에 지원한 외국인 신입생",
+      "link": "https://www.kongju.ac.kr",
+      "date": "입학학기 입학금+수업료 60%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "직전학기 성적 평점평균 4.0이상인 학생으로 논문 게재일 기준으로 다음 학기부터 지급(재학 중 총 2개 학기에 한하여 지급)  - SCI(E), SSCI, A&HCI 학술지 제1저자(또는 교신저자) 논문게재(2개 학기 지급)  - SCOPUS, 학진등재지, 학진등재후보학술지 제1저자(또는 교신저자) 논문게재(1개 학기 지급)",
+      "link": "https://www.kongju.ac.kr",
+      "date": "실납부 수업료 전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "국립국제교육원과의 협약에 따라 정부 초청된 외국인 신입생  - 정부초청 전형 신입생",
+      "link": "https://www.kongju.ac.kr",
+      "date": "입학금",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "부서 자체 지급기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단에 국가장학금을 신청한 학생 중 성적·소득요건·학적사항 고려하여 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "소득구간별 지급액 상이",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단에 국가장학금을 신청한 학생 중 대학자체기준을 정하여 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "대학 자체 기준",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단에 국가근로를 신청한 학생 중 수요부서에서 선발된 자 ※ 신·편입생 첫째학기는 제외",
+      "link": "https://www.kongju.ac.kr",
+      "date": "근로시간 수에 따름",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "비수도권 지역고교 졸업자로 국가장학금 신청학생 중에서 입학성적을 반영하여 우수학생 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "한국장학재단 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "국가우수(이공계)",
+      "link": "https://www.kongju.ac.kr",
+      "date": "자연과학 및 공학계열 학과(부)에 재학 중인 1학년 및 3학년 중 선발",
+      "author": "한국장학재단 기준 금액",
+      "views": 0
+    },
+    {
+      "title": "자연과학 및 공학계열 학과(부)에 재학 중인 1학년 및 3학년 중 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "인문사회계열 학과(부)에 재학 중인 1학년 및 3학년 중 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "예술 및 체육계열 학과(부)에 재학 중인 1학년 및 3학년 중 선발",
+      "link": "https://www.kongju.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국장학재단 기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "한국장학재단 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국농어촌희망재단 기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "한국농어촌희망재단 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "교수회 선발기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "교수회 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "동창회장학재단 선발기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "동창회 기준 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "지원기관의 기준에 따름",
+      "link": "https://www.kongju.ac.kr",
+      "date": "지원기관 기준 금액",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

@@ -1,0 +1,638 @@
+{
+  "university": "University_25",
+  "url": "https://www.yongin.ac.kr/cmn/sym/mnu/mpm/105040100/htmlMenuView.do",
+  "fetchedAt": "2026-02-12T16:13:55.462Z",
+  "count": 90,
+  "announcements": [
+    {
+      "title": "신입생특별장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "전체수석입학장학금",
+      "author": "신입학전형(수시・정시 일반학생 전형, 자율전공특별전형) 최종합격자 중 입학전형 총점 최우수자",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시・정시 일반학생 전형, 자율전공특별전형) 최종합격자 중 입학전형 총점 차순위자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액 및 도서비 20만원(8학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시・정시 일반학생 전형, 자율전공특별전형) 최종합격자 중 입학전형 총점 단과대학별 최우수자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액 및 도서비 10만원(8학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시 교과성적우수자특별전형, 정시 일반학생 전형, 자율전공특별전형) 최초합격자로서 수능(국어, 영어, 수학) 영역 중 2개영역 1등급, 1개영역 3등급 이내인 자 중 성적순 12명 이내 선발",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액(8학기,12명)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시 일반학생 전형, 교과성적우수자특별전형, 자율전공특별전형) 최초합격자로서 학교생활기록부 반영 과목 평균 1등급 이내인 자 중 학과별 최우수자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액(8학기,수시학과별 1명)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시・정시 일반학생 전형, 자율전공특별전형) 최초합격자로서 수시, 정시 전형별․학과별 입학전형 총점 최우수자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액, 2학기",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시・정시 일반학생 전형, 자율전공특별전형) 최초합격자로서 수시, 정시 전형별․학과별 입학전형 총점 차순위자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액, 1학기",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(체육우수자특별전형) 최종 합격자중 탁월한 경기력을 보이는 자에 대하여 체육지원실의 추천을 받아 선정한다.",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액(생활관비)수업료 70%, 수업료 30%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(장애인 등 대상자특별전형, 정원외) 입학자 중 장애정도가 심한 장애인(중증, 1급~3급)에 해당하는 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시 농어촌학생특별전형, 정원외) 최초합격자로서 입학전형 총점 최우수자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 50%(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학전형(수시 특성화고교출신자특별전형, 정원외) 최초합격자로서 입학전형 총점 최우수자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 50%(1학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학특별장학금(전체수석입학장학금) 수혜자로서 직전 학기 3.5이상시 수업료 전액 및 도서비 지급",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액 및 도서비 (30만원), 정규 8학기 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학특별장학금(전체차석입학장학금) 수혜자로서 직전 학기 3.5이상시 수업료 전액 및 도서비 지급",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액 및 도서비 (20만원), 정규 8학기 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학특별장학금(단과대학수석입학장학금) 수혜자로서 직전 학기 3.5이상시 수업료 전액 및 도서비 지급",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액 및 도서비 (10만원), 정규 8학기 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학특별장학금(수능성적최우수장학금) 수혜자로서 직전 학기 3.5이상시 수업료 전액",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액, 정규 8학기 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입학특별장학금(수시학과학생부최우수장학금) 수혜자로서 직전 학기 3.5이상시 수업료 전액",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액, 정규 8학기 내",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신입생특별장학금(학과수석입학장학금)수혜자로서 직전 학기 3.5이상시 수업료 전액",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액, 2학기(입학후 1학년 1학기, 2학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "입학 당시 체육우수자로서 재학 중 국내외 각종 경기에 출전하여 학교 명예를 빛낸 자 및 가능성 있는 자중에 직전 학기 2.0이상인 자에 대하여 체육지원실의 추천을 받아 선정한다.",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액(생활관비) 수업료 70%, 수업료 30%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 단과대학별 직전 학기 성적 최우수자\n\t\t\t\t\t\t\t2. 직전 학기 3.5이상인 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 전액 및 도서비 (10만원) 지급",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 직전 학기 취득학점이 17학점(장애 1~4급인 자 및 4학년 12학점) 이상이며 3.5이상인 자를 대상으로 아래 각항에 준하여 차등 지급하며 학과별 지급인원은 직전 학기 등록인원의 10%에 해당하는 인원으로 한다. 특별한 경우 장학위원회의 심의를 거쳐 조정할 수 있다.또한 학년별 등록인원이 100명 이상인 경우에는 학년별 지급인원 내에서 학년우수, 학년우등을 2명씩 배정할 수 있다.\n\t\t\t\t\t\t\t1) 학과수석(3개 학년 이상인 경우 선정)\n\t\t\t\t\t\t\t2) 학년우수\n\t\t\t\t\t\t\t3) 학년우등\n\t\t\t\t\t\t\t4) 학년모범\n\t\t\t\t\t\t\t단, 야간학과(폐과)에 성적우수장학생이 배정되지 않을 경우 장학위원회의 심의를 거쳐 해당 주간학과의 해당 학년 선발시 야간학과 학생을 합산하여 선발한다.\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t2. 평점평균이 같은 경우는 성적총점이 높은 자, 신청 과목 수가 많은 자, 전공이론 및 전공실기 성적이 우수한 자, 직전 학기 성적이 우수한 자로 정한다.\n\t\t\t\t\t\t\t3. 학과별 장학생 선발은 학과별 성적우수장학생 선발내규를 적용하여 선발할 수 있다. \n\t\t\t\t\t\t\t4. 전과자는 학과재량으로 성적우수장학금(Ⅰ)선발에서 제외할 수 있다.\n\t\t\t\t\t\t\t5. 당해 학기 신(편)입생, 및 재입학생, 복학생 제외",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1) 수업료 전액\n\t\t\t\t\t\t\t2) 수업료 50%\n\t\t\t\t\t\t\t3) 수업료 40% \n\t\t\t\t\t\t\t4) 수업료 30%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 직전 학기 취득학점이 17학점 이상이며(단, 4학년은 12학점) 4.3이상임에도 성적우수장학금(Ⅰ)을 받지 못한 대상자에 대하여 지급대상자를 선발한다.\n\t\t\t\t\t\t\t2. 당해 학기 신(편)입생, 및 재입학생, 복학생 제외",
+      "link": "https://www.yongin.ac.kr",
+      "date": "100만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "성적이 우수하며, 가계가 곤란한 학생 중 성적우수장학금(Ⅰ,Ⅱ)를 받지 못한 대상자에 대하여 예산 범위 내에서 성적과 소득분위를 고려하여 지급범위를 정하여 지급한다.(직전 학기 취득학점 12학점 이상)\n\t\t\t\t\t\t\t1. 4.0이상이며 일정 소득분위\n\t\t\t\t\t\t\t2. 당해 학기 신(편)입생, 및 재입학생, 복학생 제외",
+      "link": "https://www.yongin.ac.kr",
+      "date": "50만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 재학 중 공인된 외국어인증시험에서 일정 성적 이상을 취득자한 자에게 학업을 독려하기 위하여 장학금을 지급한다. 단, 외국어성적우수특별전형 입학자 및 영어성적우수장학금 수혜대상자는 제외\n\t\t\t\t\t\t\t1) TOEIC 900점, NEW TEPS 430점, TOEFL 105점\n\t\t\t\t\t\t\t新HSK 6급, JPT 880점, JLPT N1 이상 취득자\n\t\t\t\t\t\t\t2) TOEIC 800점, NEW TEPS 348점, TOEFL  91점\n\t\t\t\t\t\t\t新HSK 5급 이상 취득자\n\t\t\t\t\t\t\t2. 신청공고시 지정한 기간내에 취득한 성적에 대하여 재학 중 학기별, 등급별 장학금 수혜는 1회만 가능하다.\n\t\t\t\t\t\t\t3. 직전 학기 3.0이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1) 100만원2) 50만원※신청인원이 많아 예산을 초과할 시에는 예산 범위 내에서 비율로 조정하여 지급할 수 있다.",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "생활복지장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 가정형편이 곤란하고 품행이 방정한 자로 한국장학재단의 소득분위심사를 받아 저소득분위에 해당하는 자\n\t\t\t\t\t\t\t2. 직전 학기 2.0이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "author": "- 소득분위별 일정액(예산 범위 내에서 장학위원회에서 정한다.)",
+      "views": 0
+    },
+    {
+      "title": "1. 본교에 직계존비속, 형제, 자매, 부부가 2명이상 재학 중인 자\n\t\t\t\t\t\t\t2. 해외 이주(이민)한 동문(부 또는 모)의 자녀로서 대한민국 국적이 아닌 자\n\t\t\t\t\t\t\t3. 천재지변에 의한 피해사실 증명이 가능한 자\n\t\t\t\t\t\t\t4. 병역명문가 자녀(3대 가족 남자 모두가 현역으로 복무한 가문) 증명이 가능한 자\n\t\t\t\t\t\t\t5. 직전 학기 2.5이상 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "80만원80만원100만원100만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "학생 본인의 장애정도가 심한 장애인(중증, 1급~3급)에 해당하는 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "수업료 50%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 본교 교직원들의 기부로 만들어진 교직원장학기금의 이자수입으로 단과대학별로 배정된 인원 내에서 학과별 형평성을 고려하여 단과대학장의 추천으로 지급\n\t\t\t\t\t\t\t2. 직전 학기 3.5이상인 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "100만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 국가유공자 본인(배우자) 및 그 자녀로서 해당 보훈지청에서 대학수업료 등 면제대상자 증명서를 발급 받은 자\n\t\t\t\t\t\t\t2. 북한이탈주민 본인 및 그 자녀로서 통일부에서 대학수업료 등 면제대상자 증명서를 발급 받은 자\n\t\t\t\t\t\t\t3. 직전 학기 2.0이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액(8학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 법인 임직원 및 본교 교직원 직계자녀로서 본교에 입학한 자 및 재학 중인 자\n\t\t\t\t\t\t\t2. 당해 교직원 및 법인 임직원이 정년퇴직 또는 사망 및 이에 준하는 사고로 인하여 퇴직하였을 경우 당시 재학 중이던 직계자녀에게는 졸업 시까지 지급한다. 또한 정년 및 명예퇴직자 자녀가 본 대학 진학 시 자녀 2명에 한하여 교직원과 동일하게 학비를 지급한다.\n\t\t\t\t\t\t\t3. 직전 학기 2.5이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "등록금 전액(8학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "외국인유학생장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "외국인특별전형(정원외) 입학자로서 부모와 본인 모두 외국국적 소유자이며 다음 각 호에 해당하는 자에게 지급한다.\n\t\t\t\t\t\t\t1. 신·편입생 :입학시 첫학기에 한하여 1회(등록금 고지서 감면)\n\t\t\t\t\t\t\t　가. 토픽 3급 이상 급수에 따른 차등 지급\n\t\t\t\t\t\t\t　나. 사회통합프로그램 3단계 이상 이수 또는 사전평가 61점 이상 차등 지급\n\t\t\t\t\t\t\t　다. 세종학당 한국어 중급 1급 과정 이상 차등 지급\n\t\t\t\t\t\t\t2. 본교 한국어교육과정을 20주 이상 이수하고 해당 부서장(국제교류교육원)의 추천을 받은 자\n\t\t\t\t\t\t\t3. 재학생 : 토픽성적이 있으며 직전 학기 취득학점이 15학점(4학년 12학점) 이상이며 2.5이상인 자\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t성적(GPA)\n\t\t\t\t\t\t\t\t\tTOPIK(한국어능력시험)\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3급\n\t\t\t\t\t\t\t\t\t4급\n\t\t\t\t\t\t\t\t\t5급\n\t\t\t\t\t\t\t\t\t6급\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t4.0이상\n\t\t\t\t\t\t\t\t\t50%\n\t\t\t\t\t\t\t\t\t60%\n\t\t\t\t\t\t\t\t\t65%\n\t\t\t\t\t\t\t\t\t100%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3.5이상\n\t\t\t\t\t\t\t\t\t40%\n\t\t\t\t\t\t\t\t\t50%\n\t\t\t\t\t\t\t\t\t55%\n\t\t\t\t\t\t\t\t\t70%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t3.0이상\n\t\t\t\t\t\t\t\t\t30%\n\t\t\t\t\t\t\t\t\t40%\n\t\t\t\t\t\t\t\t\t45%\n\t\t\t\t\t\t\t\t\t60%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t2.5이상\n\t\t\t\t\t\t\t\t\t20%\n\t\t\t\t\t\t\t\t\t30%\n\t\t\t\t\t\t\t\t\t35%\n\t\t\t\t\t\t\t\t\t40%\n\t\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t※ 최대8학기 지급 (수료,유급, 영어트랙입학자 미포함)\n\t\t\t\t\t\t\t단, 위 1항은 2025학년도 1학기 입학자, 3항은 2024년 9월 재학생 부터 지급 규정을 적용한다.\n\t\t\t\t\t\t\t단, 기존 재학생 중 토픽 3급 미만인 경우 변경 전 지급 규정을 적용한다.",
+      "author": "65%",
+      "views": 100
+    },
+    {
+      "title": "50%",
+      "link": "https://www.yongin.ac.kr",
+      "date": "60%",
+      "author": "65%",
+      "views": 100
+    },
+    {
+      "title": "40%",
+      "link": "https://www.yongin.ac.kr",
+      "date": "50%",
+      "author": "55%",
+      "views": 70
+    },
+    {
+      "title": "30%",
+      "link": "https://www.yongin.ac.kr",
+      "date": "40%",
+      "author": "45%",
+      "views": 60
+    },
+    {
+      "title": "20%",
+      "link": "https://www.yongin.ac.kr",
+      "date": "30%",
+      "author": "35%",
+      "views": 40
+    },
+    {
+      "title": "1. 국제교류교육원의 국제교류프로그램(교환학생, 어학연수)선발기준에 의거하여 선발된 자\n\t\t\t\t\t\t\t2. 학생지원과에서 실시하는 문화탐방프로그램 선발기준에 의거하여 선발된 자\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t3. 학생군사교육단에서 실시하는 군사문화해외탐방 참여자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "관련부서의 지급기준에 의함",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 코리아CC장학기금의 이자수입으로 단과대학별로 배정된 인원 내에서 학과별 형평성을 고려하여 단과대학장의 추천으로 지급\n\t\t\t\t\t\t\t2. 직전 학기 3.5이상인 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "50만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "각종경시대회장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 본교 행정 부서에서 주관하는 각종 경시 및 경진대회에서 입상한 자\n\t\t\t\t\t\t\t2. 입상자별 장학금액은 주관부서의 시행에 의한 총장의 결정에 의한다.",
+      "author": "각 입상자별 일정액",
+      "views": 0
+    },
+    {
+      "title": "세부시행 계획은 매 학년도 예산배정범위 내에서 시행계획을 작성하여 총장에게 보고하고 시행한다.",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 사법, 변리사, 회계사, 기술사, 공무원 5급 이상 및 이에 준하는 시험 최종합격자\n\t\t\t\t\t\t\t2. 세무사, 관세사, 노무사, 법무사, 공무원 7급 이상 및 이에 준하는 시험(중등교원임용고시) 최종합격자\n\t\t\t\t\t\t\t3. 공무원 9급 이상 및 이에 준하는 시험 최종합격자\n\t\t\t\t\t\t\t4. 재적 중 합격한 경우 재학시 모두 인정함\n\t\t\t\t\t\t\t5. 직전 학기 2.5이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 등록금 100%(합격 당해 학기부터 남은 정규학기)\n\t\t\t\t\t\t\t2. 등록금 50%(합격 당해 학기부터 남은 정규학기)\n\t\t\t\t\t\t\t3. 100만원(2학기)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "공로장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 학생간부(학생간부로 간부인준을 받은 자) 및 학교발전에 공이 크거나 명예를 빛낸 자로서 학생처장의 추천을 받은 자\n\t\t\t\t\t\t\t2. 직전 학기 2.0이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "author": "<별표2> 공로장학금 지급기준표에 의함",
+      "views": 0
+    },
+    {
+      "title": "1. 교내 언론사(신문/방송)에 봉사하는 자로서 해당 부서장의 추천을 받은 자\n\t\t\t\t\t\t\t2. 신문사, 방송국 각 7명 선발\n\t\t\t\t\t\t\t3. 직전 학기 2.5이상인 자(당해 학기 신․편입생 성적적용 제외)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 편집장, 방송국장: 100만원\n\t\t\t\t\t\t\t2. 부편집장, 방송부국장 : 50만원\n\t\t\t\t\t\t\t3. 기자, 국원 : 30만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 용인대학교 학생군사교육단 간부 선발규정에 의거하여 선발된 간부\n\t\t\t\t\t\t\t2. 직전 학기 2.0이상인 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 학생군사교육단에서 실시하는 동계・하계 입영훈련자 중 학생군사교육단장이 추천한 자\n\t\t\t\t\t\t\t2. 직전 학기 2.0이상인 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "50만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "재학 중 현장체험을 통해 졸업 후 진로를 탐색하는 기회를 독려하기 위하여 취업지원센터에서 실시하는 인턴십프로그램 참가자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "학점당 10만원\n\t\t\t\t\t\t\t(단, 계절학기 학점당 5만원)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 사회봉사활동에 참여한 봉사활동자중 사회봉사 성적이 우수한 자\n\t\t\t\t\t\t\t2. 사회봉사센터에서 사회봉사실적을 수합하여 추천한 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "50만원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "본교 각종 행사(입학식, 졸업식, 개교기념행사, 입시 등)시 안내요원, 대학홍보를 위한 홍보물 제작 등을 돕기 위하여 대외협력과에서 선발, 운영하는 인원에 대하여 매월 장학금을 지급",
+      "link": "https://www.yongin.ac.kr",
+      "date": "일정액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "본교 외국인유학생의 안정적인 학교생활 정착 및 체류관리, 외국유학생 관련 각종 행사지원을 위하여 국제교류교육원에서 선발, 운영하는 인원에 대하여 장학금을 지급",
+      "link": "https://www.yongin.ac.kr",
+      "date": "일정액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "교내 각 부서에서 일정 시간을 근로하는 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "매년 국가에서 고시하는 최저임금액의 10원단위 절상한 금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "특별장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "1. 학과평가우수장학금 : 학과평가에서 우수한 성적을 거둔 학과 재학생들에게 예산 범위 내에서 장학금 지급",
+      "author": "예산 범위 내 관련 부서의 결정에 따라 운영",
+      "views": 0
+    },
+    {
+      "title": "80만원\n\t\t\t\t\t\t\t※신청인원이 많아 예산을 초과할 시에는 예산 범위 내에서 비율로 조정하여 지급할 수 있다.",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1. 각 호에 규정된 장학금 이외에 장학위원회에서 장학금 지급이 필요하다고 인정된 자",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "용인대학교 동문회장학재단, 정기기부장학금 등",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "경찰행정학과",
+      "link": "https://www.yongin.ac.kr",
+      "date": "삼구구자관장학금, 조진형장학금, [재]동화산업장학재단장학금, 경찰행정학과재직교수장학금, 경찰행정학과동문회장학금",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "김상용장학금, 경영학과장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "진흥무역장학금, 소치장학금, 유종영장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "신성기업장학금, 특수체육교실 교육지원장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "리더스클럽장학금, 경호학과동문회장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "발광엔터테인먼트장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "무도학과장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "축구부지정장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "태권도학과지정장학금, 한국가스공사",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국문화유산연구원장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "문화콘텐츠학과장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "중국학과동문회장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "(재)한국지도자육성장학재단, (재)한원장학회, KRA농어촌희망재단, (재)용인시인재육성재단, 한국장학재단 푸른등대기부장학금, (재)서울장학재단, (재)성남시장학회 등",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "용인대학교 직원노동조합, (재)삼송장학회, (재)정산장학재단, (재)본솔김종한장학재단 등",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "각 지방자치단체 애향장학금, 의용소방대원자녀장학금, 각종 지정기부장학금 등",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "소득수준에 연계하여 경제적으로 어려운 학생들에게 보다 많은 혜택이 주어지도록 설계된 장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "대학의 적극적인 등록금 부담완화 참여를 도모하기 위해 대학 자체노력과 연계하여 지원하는 장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "다자녀가구의 등록금부담경감을 위해 지원되는 장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "연간소득금액이 상환기준소득을 초과하거나, 상속. 증여재산이 발생한 경우 일정금액을 의무적으로 상환",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "거치기간 동안 이자납부 후 상환기간동안 원리금(원금+이자) 상환",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "조건별 최장기간 내 원금균등분할상환",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "2. HARMONY장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "3. GLOBAL장학금",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "5. VOLUNTEER장학금",
+      "link": "https://www.yongin.ac.kr",
+      "date": "6. DRAGON장학금",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 총학생회 회장\n\t\t\t\t\t\t\t- 총학생회 부회장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 단과대학 학생회 회장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 자치기구회(의)장 : 총대의원회, 동아리연합회, 총여학생회",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 자치기구 부회(의)장 : 총대의원회, 동아리연합회, 총여학생회\n\t\t\t\t\t\t\t- 단과대학 학생회 부회장\n\t\t\t\t\t\t\t- 총학생회 국장\n\t\t\t\t\t\t\t- 생활관 사생장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 학과(부) 학생회 회장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 자치기구 부(국)장 : 총대의원회, 동아리연합회, 총여학생회\n\t\t\t\t\t\t\t- 단과대학 학생회 국장\n\t\t\t\t\t\t\t- 총학생회 차장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "- 단과대학 차장- 학과(부) 학생회 부회장",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "재적생\n\t\t\t\t\t\t\t(재학생+휴학생)",
+      "link": "https://www.yongin.ac.kr",
+      "date": "국문",
+      "author": "학적증명서\n\t\t\t\t\t\t\t성적증명서",
+      "views": 500
+    },
+    {
+      "title": "300원",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "모든 증명서",
+      "link": "https://www.yongin.ac.kr",
+      "date": "500원",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "국문/영문",
+      "link": "https://www.yongin.ac.kr",
+      "date": "모든 증명서",
+      "author": "1,000원",
+      "views": 0
+    },
+    {
+      "title": "국문/영문",
+      "link": "https://www.yongin.ac.kr",
+      "date": "모든 증명서",
+      "author": "500원",
+      "views": 0
+    },
+    {
+      "title": "국문",
+      "link": "https://www.yongin.ac.kr",
+      "date": "학위증명서, 성적증명서",
+      "author": "1,000원",
+      "views": 0
+    },
+    {
+      "title": "국문/영문",
+      "link": "https://www.yongin.ac.kr",
+      "date": "재직증명서, 경력증명서",
+      "author": "100원",
+      "views": 0
+    },
+    {
+      "title": "폭행성폭행",
+      "link": "https://www.yongin.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

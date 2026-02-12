@@ -1,0 +1,29 @@
+{
+  "university": "University_26",
+  "url": "https://www.daejin.ac.kr/daejin/2899/subview.do",
+  "fetchedAt": "2026-02-12T16:17:00.871Z",
+  "count": 3,
+  "announcements": [
+    {
+      "title": "· 취·창업장려장학금(취업, 창업) · 학습역량강화장학금 · (국가)근로장학금",
+      "link": "https://www.daejin.ac.kr",
+      "date": "· 국제화장학금 · 국제교류장학금 · 글로벌인재장학금",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "중복지원",
+      "link": "https://www.daejin.ac.kr",
+      "date": "초과 지원된 장학금 반환",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "중복지원(대출상환대상자)",
+      "link": "https://www.daejin.ac.kr",
+      "date": "초과 지원된 장학금으로 대출 우선 상환",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

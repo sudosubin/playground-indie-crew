@@ -7,9 +7,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const UNIVERSITY_NAME = 'University_2';
-const ANNOUNCEMENT_URL = 'https://www.yonsei.ac.kr/sc/support/scholarship.do';
-const BASE_URL = new URL(ANNOUNCEMENT_URL).origin;
+const UNIVERSITY_NAME = '연세대학교';
+const ANNOUNCEMENT_URL = 'https://www.yonsei.ac.kr/sc/support/notice.do';
+const BASE_URL = 'https://www.yonsei.ac.kr';
 
 interface Announcement {
   title: string;
@@ -27,34 +27,57 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
   
   try {
     await page.goto(ANNOUNCEMENT_URL, { waitUntil: 'networkidle' });
-    await page.waitForTimeout(2000);
+    await page.waitForTimeout(3000);
     
+    // Try multiple common selectors for Korean university boards
     const announcements = await page.evaluate((baseUrl) => {
-      const items = [];
-      const rows = document.querySelectorAll('table tbody tr, .board-list tbody tr, .bbs-list tbody tr, [class*="board"] tbody tr, .list-item, .notice-item');
+      const items: Announcement[] = [];
       
-      rows.forEach((row) => {
-        const titleEl = row.querySelector('td:nth-child(2), .title, .subject, a');
-        const linkEl = row.querySelector('a');
-        const dateEl = row.querySelector('td:nth-child(3), .date, .reg-date');
-        const authorEl = row.querySelector('td:nth-child(4), .author, .writer');
-        const viewsEl = row.querySelector('td:nth-child(5), .views, .hit');
-        
-        if (titleEl) {
-          const title = titleEl.textContent?.trim() || '';
-          const link = linkEl?.getAttribute('href') || '';
-          
-          if (title && title !== '제목') {
-            items.push({
-              title,
-              link: link.startsWith('http') ? link : baseUrl + link,
-              date: dateEl?.textContent?.trim() || '',
-              author: authorEl?.textContent?.trim() || '',
-              views: parseInt(viewsEl?.textContent?.replace(/,/g, '') || '0') || 0
-            });
-          }
+      // Try various selectors
+      const selectors = [
+        '.board-list tbody tr',
+        '.bbs-list tbody tr', 
+        'table tbody tr',
+        '.list-type tbody tr',
+        '[class*="board"] tbody tr',
+        '.notice-list li',
+        '.post-list li'
+      ];
+      
+      for (const selector of selectors) {
+        const rows = document.querySelectorAll(selector);
+        if (rows.length > 0) {
+          rows.forEach((row) => {
+            const titleEl = row.querySelector('.title a, td:nth-child(2) a, .subject a, a');
+            const dateEl = row.querySelector('.date, td:nth-child(3), .reg-date');
+            const authorEl = row.querySelector('.author, td:nth-child(4), .writer');
+            const viewsEl = row.querySelector('.views, td:nth-child(5), .hit, .count');
+            
+            if (titleEl) {
+              const title = titleEl.textContent?.trim() || '';
+              let link = titleEl.getAttribute('href') || '';
+              
+              // Handle JavaScript links
+              if (link.startsWith('javascript:')) {
+                const onclick = titleEl.getAttribute('onclick') || '';
+                const match = onclick.match(/\'(\d+)\'/);
+                if (match) link = `/view/${match[1]}`;
+              }
+              
+              if (title && title !== '제목' && title.length > 0) {
+                items.push({
+                  title,
+                  link: link.startsWith('http') ? link : baseUrl + link,
+                  date: dateEl?.textContent?.trim() || '',
+                  author: authorEl?.textContent?.trim() || '',
+                  views: parseInt(viewsEl?.textContent?.replace(/[^0-9]/g, '') || '0') || 0
+                });
+              }
+            }
+          });
+          if (items.length > 0) break;
         }
-      });
+      }
       
       return items;
     }, BASE_URL);
@@ -62,13 +85,14 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
     await browser.close();
     
     if (announcements.length > 0) {
-      console.log(`[${UNIVERSITY_NAME}] Playwright method succeeded: ${announcements.length} items`);
+      console.log(`[${UNIVERSITY_NAME}] Success: ${announcements.length} items`);
       return announcements;
     }
     
     return null;
   } catch (e) {
     await browser.close();
+    console.error(`[${UNIVERSITY_NAME}] Error:`, e);
     return null;
   }
 }
@@ -89,7 +113,7 @@ fetchAnnouncements()
       count: announcements.length,
       announcements
     }, null, 2));
-    console.log(`[${UNIVERSITY_NAME}] Success! Saved ${announcements.length} announcements`);
+    console.log(`[${UNIVERSITY_NAME}] Saved ${announcements.length} announcements`);
     process.exit(0);
   })
   .catch((error) => {

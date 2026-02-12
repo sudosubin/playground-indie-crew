@@ -1,0 +1,78 @@
+{
+  "university": "University_9",
+  "url": "https://www.hanbat.ac.kr/kor/sub05_090101.do",
+  "fetchedAt": "2026-02-12T16:11:53.659Z",
+  "count": 10,
+  "announcements": [
+    {
+      "title": "평점평균 3.750이상인 학생 중 학과(부)에서 추천을 받은 자\n                            직전학기 12학점 이상 취득",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "등록금 전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "평점평균 3.500이상인 학생 중 학과(부)에서 추천을 받은 자\n                            직전학기 12학점 이상 취득",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "등록금 50%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "평점평균 3.000이상인 학생 중 학과(부)에서 추천을 받은 자\n                            직전학기 12학점 이상 취득",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "등록금 30%",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "1-1",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "1",
+      "author": "4",
+      "views": 4
+    },
+    {
+      "title": "1-2",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "2",
+      "author": "8",
+      "views": 12
+    },
+    {
+      "title": "2-1",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "3",
+      "author": "8",
+      "views": 20
+    },
+    {
+      "title": "2-2",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "4",
+      "author": "8",
+      "views": 28
+    },
+    {
+      "title": "3-1",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "5",
+      "author": "8",
+      "views": 36
+    },
+    {
+      "title": "3-2",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "6",
+      "author": "8",
+      "views": 44
+    },
+    {
+      "title": "4-1",
+      "link": "https://www.hanbat.ac.kr",
+      "date": "7",
+      "author": "8",
+      "views": 52
+    }
+  ]
+}

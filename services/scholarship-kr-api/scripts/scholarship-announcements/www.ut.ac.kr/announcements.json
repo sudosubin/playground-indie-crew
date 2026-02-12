@@ -1,0 +1,57 @@
+{
+  "university": "University_11",
+  "url": "https://www.ut.ac.kr/kor/sub06_05_01.do",
+  "fetchedAt": "2026-02-12T16:13:39.896Z",
+  "count": 7,
+  "announcements": [
+    {
+      "title": "전체수석 입학자",
+      "link": "https://www.ut.ac.kr",
+      "date": "전학년 등록금 전액면제+기숙사비전액보조\n +학비보조(연240만원)+해외 대학원 진학시 유학비 보조(20,000$)",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "전학년 등록금 면제+학비보조(연120만원) +해외유학시 우선선발",
+      "link": "https://www.ut.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "2년간 등록금 전액면제(1~2학년)",
+      "link": "https://www.ut.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "모집단위별 우수 입학자",
+      "link": "https://www.ut.ac.kr",
+      "date": "입학당해학기 등록금차등지급\n \n \nA유형 : 등록금 전액 \nB유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ75% 또는 수업Ⅱ 75% \nC유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ50% 또는 수업Ⅱ 50% \nD유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ25% 또는 수업Ⅱ 25% \n일정금액 : 입학금 + 수업Ⅰ,Ⅱ 일정금액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "전학년 등록금, 기숙사비 면제 (재학중 직전학기 평균평점 3.5이상을 유지해야 함)",
+      "link": "https://www.ut.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "한국어능력시험우수 입학자",
+      "link": "https://www.ut.ac.kr",
+      "date": "6급 소지자 \n \nA유형 : 등록금 전액 \n5급 소지자 \n \nB유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ 75% 또는 입학금 + 수업Ⅱ 75% \n4급 소지자 \n \nC유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ 50% 또는 입학금 + 수업Ⅱ 50% \n3급 소지자 \n \nE유형 : 입학금 + 수업Ⅰ전액",
+      "author": "",
+      "views": 0
+    },
+    {
+      "title": "상위5%이상 \n \nA유형 : 등록금 전액 \n상위10%이상 \n \nC유형 : 입학금 + 수업Ⅰ전액 + 수업Ⅱ50% \n상위15%이상 \n \nE유형 : 입학금 + 수업Ⅰ전액",
+      "link": "https://www.ut.ac.kr",
+      "date": "",
+      "author": "",
+      "views": 0
+    }
+  ]
+}

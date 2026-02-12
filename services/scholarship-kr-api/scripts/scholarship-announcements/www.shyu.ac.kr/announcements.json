@@ -1,0 +1,22 @@
+{
+  "university": "University_34",
+  "url": "https://www.shyu.ac.kr/fro_end/html/dep_03/3120.php",
+  "fetchedAt": "2026-02-12T16:12:15.585Z",
+  "count": 2,
+  "announcements": [
+    {
+      "title": "2024년 연간기부금모금액및활용실적명세서",
+      "link": "https://www.shyu.ac.kr?pagetype=&bbs_idx=6771&pageno=1&pagekind=c&bbsid=scholarship&cafeid=&ref_code=&keyword=&keyfield=&category=&search_year=&search_month=&qstr=&c_pagesize=15&use_eng=&gopage=/fro_end/html/dep_03/3120.php?",
+      "date": "",
+      "author": "학교관리자",
+      "views": 2025
+    },
+    {
+      "title": "2022년 연간기부금모금액및활용실적명세서",
+      "link": "https://www.shyu.ac.kr?pagetype=&bbs_idx=5198&pageno=1&pagekind=c&bbsid=scholarship&cafeid=&ref_code=&keyword=&keyfield=&category=&search_year=&search_month=&qstr=&c_pagesize=15&use_eng=&gopage=/fro_end/html/dep_03/3120.php?",
+      "date": "",
+      "author": "학교관리자",
+      "views": 2023
+    }
+  ]
+}
