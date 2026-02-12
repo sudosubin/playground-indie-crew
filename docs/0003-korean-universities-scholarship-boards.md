@@ -235,19 +235,19 @@ Note: Wikipedia lists approximately 190 institutions but may not be as up-to-dat
 
 ### Daejeon (대전) - 20 Universities
 
-| #   | Korean Name        | English Name                                       | Type     | Website                     | Scholarship Introduction URLs | Scholarship Announcement Board URL             | Status |
-| --- | ------------------ | -------------------------------------------------- | -------- | --------------------------- | ----------------------------- | ---------------------------------------------- | ------ |
-| 1   | KAIST              | Korea Advanced Institute of Science and Technology | National | https://www.kaist.ac.kr     | N/A                           | ✅                                             |
-| 2   | 충남대학교         | Chungnam National University                       | National | https://www.cnu.ac.kr       | N/A                           | N/A                                            | ✅     |
-| 3   | 한국교원대학교     | Korea National University of Education             | National | https://www.knue.ac.kr      | N/A                           | N/A                                            | ✅     |
-| 4   | 한국기술교육대학교 | Korea University of Technology and Education       | National | https://www.koreatech.ac.kr | N/A                           | N/A                                            | ✅     |
-| 5   | 대전대학교         | Daejeon University                                 | Private  | https://www.dju.ac.kr       | N/A                           | N/A                                            | ✅     |
-| 6   | 목원대학교         | Mokwon University                                  | Private  | https://www.mokwon.ac.kr    | N/A                           | https://www.mokwon.ac.kr/mokwon/212/subview.do | ✅     |
-| 7   | 우송대학교         | Woosong University                                 | Private  | N/A                         | N/A/woosong/201/subview.do    | N/A/woosong/202/subview.do                     | ✅     |
-| 8   | 한남대학교         | Hannam University                                  | Private  | N/A                         | N/A/hannam/241/subview.do     | N/A/hannam/242/subview.do                      | ✅     |
-| 9   | 한밭대학교         | Hanbat National University                         | National | https://www.hanbat.ac.kr    | N/A                           | https://www.hanbat.ac.kr/hanbat/222/subview.do | ✅     |
-| 10  | 배재대학교         | Pai Chai University                                | Private  | https://www.pcu.ac.kr       | N/A                           | https://www.pcu.ac.kr/pcu/202/subview.do       | ✅     |
-| 11  | 한국교통대학교     | Korea National University of Transportation        | National | https://www.ut.ac.kr        | N/A                           | https://www.ut.ac.kr/ut/212/subview.do         | ✅     |
+| #   | Korean Name        | English Name                                       | Type     | Website                     | Scholarship Introduction URLs                                           | Scholarship Announcement Board URL                                      | Status |
+| --- | ------------------ | -------------------------------------------------- | -------- | --------------------------- | ----------------------------------------------------------------------- | ----------------------------------------------------------------------- | ------ |
+| 1   | KAIST              | Korea Advanced Institute of Science and Technology | National | https://www.kaist.ac.kr     | N/A                                                                     | ✅                                                                      |
+| 2   | 충남대학교         | Chungnam National University                       | National | https://www.cnu.ac.kr       | https://plus.cnu.ac.kr/html/hub/support/support_030301.html             | https://plus.cnu.ac.kr/html/hub/support/support_030302.html             | ✅     |
+| 3   | 한국교원대학교     | Korea National University of Education             | National | https://www.knue.ac.kr      | https://www.knue.ac.kr/www/contents.do?key=1561                         | https://www.knue.ac.kr/www/selectBbsList.do?bbsCd=103                   | ✅     |
+| 4   | 한국기술교육대학교 | Korea University of Technology and Education       | National | https://www.koreatech.ac.kr | https://www.koreatech.ac.kr/menu.es?mid=a10609010200                    | https://www.koreatech.ac.kr/menu.es?mid=a10609010300                    | ✅     |
+| 5   | 대전대학교         | Daejeon University                                 | Private  | https://www.dju.ac.kr       | https://www.dju.ac.kr/dju/cm/cntnts/cntntsView.do?mi=1172&cntntsId=1064 | https://www.dju.ac.kr/dju/cm/cntnts/cntntsView.do?mi=1173&cntntsId=1065 | ✅     |
+| 6   | 목원대학교         | Mokwon University                                  | Private  | https://www.mokwon.ac.kr    | N/A                                                                     | https://www.mokwon.ac.kr/mokwon/212/subview.do                          | ✅     |
+| 7   | 우송대학교         | Woosong University                                 | Private  | N/A                         | N/A/woosong/201/subview.do                                              | N/A/woosong/202/subview.do                                              | ✅     |
+| 8   | 한남대학교         | Hannam University                                  | Private  | N/A                         | N/A/hannam/241/subview.do                                               | N/A/hannam/242/subview.do                                               | ✅     |
+| 9   | 한밭대학교         | Hanbat National University                         | National | https://www.hanbat.ac.kr    | N/A                                                                     | https://www.hanbat.ac.kr/hanbat/222/subview.do                          | ✅     |
+| 10  | 배재대학교         | Pai Chai University                                | Private  | https://www.pcu.ac.kr       | N/A                                                                     | https://www.pcu.ac.kr/pcu/202/subview.do                                | ✅     |
+| 11  | 한국교통대학교     | Korea National University of Transportation        | National | https://www.ut.ac.kr        | N/A                                                                     | https://www.ut.ac.kr/ut/212/subview.do                                  | ✅     |
 
 ### Ulsan (울산) - 6 Universities
 
@@ -271,15 +271,15 @@ Note: Wikipedia lists approximately 190 institutions but may not be as up-to-dat
 
 ### Chungbuk (충북) - 19 Universities
 
-| #   | Korean Name    | English Name                              | Type     | Website                  | Scholarship Introduction URLs | Scholarship Announcement Board URL       | Status |
-| --- | -------------- | ----------------------------------------- | -------- | ------------------------ | ----------------------------- | ---------------------------------------- | ------ |
-| 1   | 충북대학교     | Chungbuk National University              | National | https://www.cbnu.ac.kr   | N/A                           | N/A                                      | ✅     |
-| 2   | 국립공주대학교 | Kongju National University                | National | https://www.kongju.ac.kr | N/A                           | N/A                                      | ✅     |
-| 3   | 서원대학교     | Seowon University                         | Private  | https://www.seowon.ac.kr | N/A                           | N/A                                      | ✅     |
-| 4   | 청주대학교     | Cheongju University                       | Private  | https://www.cju.ac.kr    | N/A                           | https://www.cju.ac.kr/cju/232/subview.do | ✅     |
-| 5   | 충주대학교     | Chungju National University               | Private  | https://www.cju.ac.kr    | N/A                           | N/A                                      | ✅     |
-| 6   | 극동대학교     | Far East University                       | Private  | N/A                      | N/A/feu/211/subview.do        | N/A/feu/212/subview.do                   | ✅     |
-| 7   | 청주교육대학교 | Cheongju National University of Education | National | N/A                      | N/A                           | https://www.cue.ac.kr/cue/202/subview.do | ✅     |
+| #   | Korean Name    | English Name                              | Type     | Website                  | Scholarship Introduction URLs                  | Scholarship Announcement Board URL                    | Status |
+| --- | -------------- | ----------------------------------------- | -------- | ------------------------ | ---------------------------------------------- | ----------------------------------------------------- | ------ |
+| 1   | 충북대학교     | Chungbuk National University              | National | https://www.cbnu.ac.kr   | https://www.cbnu.ac.kr/www/contents.do?key=491 | https://www.cbnu.ac.kr/www/selectBbsList.do?bbsCd=104 | ✅     |
+| 2   | 국립공주대학교 | Kongju National University                | National | https://www.kongju.ac.kr | https://www.kongju.ac.kr/KNU/16842/subview.do  | https://www.kongju.ac.kr/KNU/16843/subview.do         | ✅     |
+| 3   | 서원대학교     | Seowon University                         | Private  | https://www.seowon.ac.kr | N/A                                            | N/A                                                   | ✅     |
+| 4   | 청주대학교     | Cheongju University                       | Private  | https://www.cju.ac.kr    | N/A                                            | https://www.cju.ac.kr/cju/232/subview.do              | ✅     |
+| 5   | 충주대학교     | Chungju National University               | Private  | https://www.cju.ac.kr    | N/A                                            | N/A                                                   | ✅     |
+| 6   | 극동대학교     | Far East University                       | Private  | N/A                      | N/A/feu/211/subview.do                         | N/A/feu/212/subview.do                                | ✅     |
+| 7   | 청주교육대학교 | Cheongju National University of Education | National | N/A                      | N/A                                            | https://www.cue.ac.kr/cue/202/subview.do              | ✅     |
 
 ### Chungnam (충남) - 28 Universities
 
