@@ -7,9 +7,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const UNIVERSITY_NAME = '{{UNIVERSITY_NAME}}';
-const ANNOUNCEMENT_URL = '{{ANNOUNCEMENT_URL}}';
-const BASE_URL = new URL(ANNOUNCEMENT_URL).origin;
+const UNIVERSITY_NAME = '연세대학교';
+const ANNOUNCEMENT_URL = 'https://www.yonsei.ac.kr/sc/';
+const BASE_URL = 'https://www.yonsei.ac.kr';
 
 interface Announcement {
   title: string;
@@ -26,148 +26,34 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
   const page = await browser.newPage();
   
   try {
-    // Set user agent
-    await page.setExtraHTTPHeaders({
-      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-    });
-    
-    // Navigate with longer timeout
-    const response = await page.goto(ANNOUNCEMENT_URL, { 
-      waitUntil: 'domcontentloaded',
-      timeout: 60000 
-    });
-    
-    if (!response || response.status() === 404) {
-      console.log(`[${UNIVERSITY_NAME}] Page returned 404`);
-      await browser.close();
-      return null;
-    }
-    
-    // Wait for content to load
+    await page.goto(ANNOUNCEMENT_URL, { waitUntil: 'networkidle' });
     await page.waitForTimeout(3000);
     
-    // Try multiple selectors
+    // Click on 장학 menu
+    const janghakButton = await page.$('button:has-text("장학")');
+    if (janghakButton) {
+      await janghakButton.click();
+      await page.waitForTimeout(2000);
+    }
+    
     const announcements = await page.evaluate((baseUrl) => {
-      const items: Announcement[] = [];
+      const items = [];
+      const links = document.querySelectorAll('a[href*="장학"], a[href*="scholarship"]');
       
-      // Comprehensive list of selectors for Korean university boards
-      const rowSelectors = [
-        'table tbody tr',
-        '.board-list tbody tr',
-        '.bbs-list tbody tr',
-        '.notice-list tbody tr',
-        '[class*="board"] tbody tr',
-        '[class*="bbs"] tbody tr',
-        '.list-type1 tbody tr',
-        '.tbl_list tbody tr',
-        '.list_table tbody tr',
-        '.scholarship-list li',
-        '.notice-list li',
-        '.post-list li',
-        '.article-list li',
-        'ul li .title',
-        '.content-list .item'
-      ];
-      
-      for (const selector of rowSelectors) {
-        const rows = document.querySelectorAll(selector);
-        if (rows.length > 0 && rows.length < 200) { // Reasonable number
-          rows.forEach((row) => {
-            // Try various title selectors
-            const titleSelectors = [
-              'td:nth-child(2) a',
-              'td:nth-child(2)',
-              '.title a',
-              '.title',
-              '.subject a',
-              '.subject',
-              'a[href*="view"]',
-              'a[href*="detail"]',
-              'a[href*="article"]',
-              '.list-title',
-              'h3 a',
-              'h4 a',
-              'a'
-            ];
-            
-            let titleEl: Element | null = null;
-            let linkEl: Element | null = null;
-            
-            for (const ts of titleSelectors) {
-              titleEl = row.querySelector(ts);
-              if (titleEl) {
-                linkEl = titleEl.tagName === 'A' ? titleEl : titleEl.closest('a');
-                break;
-              }
-            }
-            
-            if (titleEl) {
-              const title = titleEl.textContent?.trim() || '';
-              
-              // Skip header rows
-              if (!title || title === '제목' || title === '번호' || title === 'Title' || title.length < 2) {
-                return;
-              }
-              
-              // Get link
-              let link = linkEl?.getAttribute('href') || '';
-              if (link.startsWith('javascript:')) {
-                const onclick = linkEl?.getAttribute('onclick') || titleEl?.getAttribute('onclick') || '';
-                const match = onclick.match(/['"](\d+)['"]/);
-                if (match) {
-                  link = `/view/${match[1]}`;
-                }
-              }
-              
-              // Get date from various selectors
-              const dateSelectors = ['td:nth-child(3)', '.date', '.reg-date', '.wdate', '.write-date', '.created'];
-              let date = '';
-              for (const ds of dateSelectors) {
-                const el = row.querySelector(ds);
-                if (el?.textContent?.trim()) {
-                  date = el.textContent.trim();
-                  break;
-                }
-              }
-              
-              // Get author
-              const authorSelectors = ['td:nth-child(4)', '.author', '.writer', '.name', '.user'];
-              let author = '';
-              for (const as of authorSelectors) {
-                const el = row.querySelector(as);
-                if (el?.textContent?.trim()) {
-                  author = el.textContent.trim();
-                  break;
-                }
-              }
-              
-              // Get views
-              const viewsSelectors = ['td:nth-child(5)', '.views', '.hit', '.count', '.read'];
-              let views = 0;
-              for (const vs of viewsSelectors) {
-                const el = row.querySelector(vs);
-                if (el?.textContent) {
-                  const num = parseInt(el.textContent.replace(/[^0-9]/g, ''));
-                  if (!isNaN(num)) {
-                    views = num;
-                    break;
-                  }
-                }
-              }
-              
-              items.push({
-                title,
-                link: link.startsWith('http') ? link : (link.startsWith('/') ? baseUrl + link : baseUrl + '/' + link),
-                date,
-                author,
-                views
-              });
-            }
+      links.forEach((link) => {
+        const title = link.textContent?.trim();
+        const href = link.getAttribute('href');
+        
+        if (title && title.length > 5 && href) {
+          items.push({
+            title,
+            link: href.startsWith('http') ? href : baseUrl + href,
+            date: '',
+            author: '',
+            views: 0
           });
-          
-          if (items.length > 0) break;
         }
-      }
+      });
       
       return items;
     }, BASE_URL);
@@ -181,7 +67,6 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
     
     return null;
   } catch (e) {
-    console.error(`[${UNIVERSITY_NAME}] Error:`, e);
     await browser.close();
     return null;
   }

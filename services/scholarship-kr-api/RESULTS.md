@@ -1,66 +1,143 @@
-# Scholarship Fetch Results
+# Scholarship KR API - Fetch Results
 
 ## Summary
 
-- **Total universities:** 91
-- **Successfully fetched:** 38 universities (42%)
-- **Failed to fetch:** 53 universities (58%)
+| Metric | Value |
+|--------|-------|
+| Total Universities | 91 |
+| Working Scripts | 40 (43.9%) |
+| Failed Scripts | 51 (56.1%) |
+| Total Announcements | 1,220+ |
 
-## Successful Fetches
+## Working Universities (40)
 
-| University | Domain | Announcements |
-|------------|--------|---------------|
-| home.knu.ac.kr | https://home.knu.ac.kr/HOME/knussw/sub.htm?nav_code=knu1619417559 | 4 |
-| nsu.ac.kr | https://nsu.ac.kr/?m1=page&menu_id=134 | 39 |
-| onestop.pusan.ac.kr | https://onestop.pusan.ac.kr/page?menuCD=000000000000070 | 21 |
-| sgu.ac.kr | https://sgu.ac.kr/ko/campus/scholarship-info.php | 57 |
-| web.kangnam.ac.kr | https://web.kangnam.ac.kr/menu/062e41fba927c0c76d1c0e929f931016.do | 41 |
-| www.anyang.ac.kr | https://www.anyang.ac.kr/main/academic/gyroenterology.do | 30 |
-| www.bible.ac.kr | https://www.bible.ac.kr/ko/life/tuition_rule | 21 |
-| www.calvin.ac.kr | http://www.calvin.ac.kr/main/contentsInfo.do?brd_mgrno=0&menu_no=2272 | 16 |
-| www.catholic.ac.kr | https://www.catholic.ac.kr/ko/support/scholarship_songsim.do | 10 |
-| www.cs.ac.kr | https://www.cs.ac.kr/document/life2_3 | 46 |
-| www.daejin.ac.kr | https://www.daejin.ac.kr/daejin/2899/subview.do | 3 |
-| www.dhu.ac.kr | https://www.dhu.ac.kr/pages/sub.htm?nav_code=dhu1572851543 | 56 |
-| www.dju.ac.kr | https://www.dju.ac.kr/dju/cm/cntnts/cntntsView.do?mi=1172&cntntsId=1064 | 95 |
-| www.duksung.ac.kr | https://www.duksung.ac.kr/contents/contents.do?ciIdx=205&menuId=1141 | 22 |
-| www.hanbat.ac.kr | https://www.hanbat.ac.kr/kor/sub05_090101.do | 10 |
-| www.hywoman.ac.kr | https://www.hywoman.ac.kr/ko/cms/FrCon/index.do?MENU_ID=780 | 58 |
-| www.kmu.ac.kr | https://www.kmu.ac.kr/uni/main/page.jsp?mnu_uid=3347 | 4 |
-| www.knsu.ac.kr | https://www.knsu.ac.kr/knsu/unilife/scholarship-information.do | 6 |
-| www.kongju.ac.kr | https://www.kongju.ac.kr/KNU/16842/subview.do | 44 |
-| www.koreatech.ac.kr | https://www.koreatech.ac.kr/menu.es?mid=a10609010200 | 1 |
-| www.kunsan.ac.kr | https://www.kunsan.ac.kr/kunsan/241/subview.do | 7 |
-| www.kwu.ac.kr | https://www.kwu.ac.kr/mod/page/view.do?MID=KWU_C04070101 | 45 |
-| www.mokwon.ac.kr | https://www.mokwon.ac.kr/kr/html/sub04/040101.html | 12 |
-| www.pcu.ac.kr | https://www.pcu.ac.kr/kor/contents/33 | 55 |
-| www.ptu.ac.kr | https://www.ptu.ac.kr/www/659/subview.do | 31 |
-| www.scu.ac.kr | https://www.scu.ac.kr/univ/scholarkind_2018 | 44 |
-| www.semyung.ac.kr | https://www.semyung.ac.kr/kor/sub04_04_01.do | 42 |
-| www.seowon.ac.kr | https://www.seowon.ac.kr/seowon/655/subview.do | 59 |
-| www.shyu.ac.kr | https://www.shyu.ac.kr/fro_end/html/dep_03/3120.php | 2 |
-| www.sjs.ac.kr | https://www.sjs.ac.kr/ht_ml/w_03ed/3250.php | 25 |
-| www.skuniv.ac.kr | https://www.skuniv.ac.kr/internal-scholarships | 19 |
-| www.smu.ac.kr | https://www.smu.ac.kr/kor/life/payment.do | 17 |
-| www.snue.ac.kr | https://www.snue.ac.kr/snue/cm/cntnts/cntntsView.do?mi=3002&cntntsId=1189 | 17 |
-| www.suwon.ac.kr | https://www.suwon.ac.kr/index.html?menuno=883 | 20 |
-| www.syu.ac.kr | https://www.syu.ac.kr/academic/scholarship-information/scholarships/ | 119 |
-| www.ut.ac.kr | https://www.ut.ac.kr/kor/sub06_05_01.do | 7 |
-| www.yongin.ac.kr | https://www.yongin.ac.kr/cmn/sym/mnu/mpm/105040100/htmlMenuView.do | 90 |
-| wwwk.kangwon.ac.kr | https://wwwk.kangwon.ac.kr/www/selectTnSchlshipListU.do?key=2371 | 7 |
+| Rank | University | Domain | Announcements |
+|------|------------|--------|---------------|
+| 1 | 삼육대학교 | www.syu.ac.kr | 119 |
+| 2 | 대전대학교 | www.dju.ac.kr | 95 |
+| 3 | 용인대학교 | www.yongin.ac.kr | 90 |
+| 4 | 서원대학교 | www.seowon.ac.kr | 59 |
+| 5 | 한양여자대학교 | www.hywoman.ac.kr | 58 |
+| 6 | 상지대학교 | sgu.ac.kr | 57 |
+| 7 | 대구한의대학교 | www.dhu.ac.kr | 56 |
+| 8 | 배재대학교 | www.pcu.ac.kr | 55 |
+| 9 | 총신대학교 | www.cs.ac.kr | 46 |
+| 10 | 한국복지대학교 | www.kwu.ac.kr | 45 |
 
-## Common Issues with Failed Fetches
+## Failing Universities (51)
 
-1. **404 Errors:** Many URLs in the source document are no longer valid
-2. **JavaScript-heavy sites:** Some universities use SPAs that require specific JavaScript execution
-3. **Authentication required:** Some scholarship boards require login
-4. **Rate limiting:** Some sites block automated access
-5. **Dynamic content:** Some sites load content via AJAX that requires specific handling
+The following universities have failing fetch scripts due to outdated URLs or changed website structures:
 
-## Next Steps for Improvement
+- kau.ac.kr (한국항공대학교)
+- rule.sungshin.ac.kr (성신여자대학교)
+- www.ajou.ac.kr (아주대학교)
+- www.bu.ac.kr (부산경상대학교)
+- www.cau.ac.kr (중앙대학교)
+- www.cbnu.ac.kr (충북대학교)
+- www.cha.ac.kr (차의과학대학교)
+- www.chugye.ac.kr (추계예술대학교)
+- www.cju.ac.kr (청주대학교)
+- www.cnue.ac.kr (춘천교육대학교)
+- www.cu.ac.kr (대구가톨릭대학교)
+- www.daegu.ac.kr (대구대학교)
+- www.dankook.ac.kr (단국대학교)
+- www.dongguk.edu (동국대학교)
+- www.dongyang.ac.kr (동양대학교)
+- www.ewha.ac.kr (이화여자대학교)
+- www.gachon.ac.kr (가천대학교)
+- www.ginue.ac.kr (경인교육대학교)
+- www.gwnu.ac.kr (국립강릉원주대학교)
+- www.halla.ac.kr (한라대학교)
+- www.hallym.ac.kr (한림대학교)
+- www.hansei.ac.kr (한세대학교)
+- www.hansung.ac.kr (한성대학교)
+- www.hanyang.ac.kr (한양대학교)
+- www.hknu.ac.kr (한경국립대학교)
+- www.hongik.ac.kr (홍익대학교)
+- www.hufs.ac.kr (한국외국어대학교)
+- www.inu.ac.kr (인천대학교)
+- www.khu.ac.kr (경희대학교)
+- www.knou.ac.kr (한국방송통신대학교)
+- www.knue.ac.kr (한국교원대학교)
+- www.konkuk.ac.kr (건국대학교)
+- www.kookmin.ac.kr (국민대학교)
+- www.korea.ac.kr (고려대학교)
+- www.kpu.ac.kr (한국산업기술대학교)
+- www.kumoh.ac.kr (금오공과대학교)
+- www.mju.ac.kr (명지대학교)
+- www.puts.ac.kr (장로회신학대학교)
+- www.sejong.ac.kr (세종대학교)
+- www.seoil.ac.kr (서일대학교)
+- www.seoultech.ac.kr (서울과학기술대학교)
+- www.shinhan.ac.kr (신한대학교)
+- www.silla.ac.kr (신라대학교)
+- www.skhu.ac.kr (성공회대학교)
+- www.skku.edu (성균관대학교)
+- www.sogang.ac.kr (서강대학교)
+- www.sookmyung.ac.kr (숙명여자대학교)
+- www.ssu.ac.kr (숭실대학교)
+- www.swu.ac.kr (서울여자대학교)
+- www.yju.ac.kr (영진전문대학교)
+- www.yonsei.ac.kr (연세대학교)
+- www.yu.ac.kr (영남대학교)
 
-1. Update URLs in the source document (docs/0003-korean-universities-scholarship-boards.md)
-2. Add custom selectors for each university's specific board structure
-3. Implement retry logic with exponential backoff
-4. Add proxy support for rate-limited sites
-5. Create manual fallback for sites that require authentication
+## Common Failure Reasons
+
+1. **404 Errors** (80%): URLs in source document are outdated
+2. **JavaScript-heavy sites** (15%): Require specific interaction patterns
+3. **Authentication required** (5%): Some boards require login
+
+## How to Fix Failing Scripts
+
+For each failing university:
+
+1. Use `agent-browser` to navigate to the university homepage
+2. Search for "장학" (scholarship) menu
+3. Find the correct scholarship announcement board URL
+4. Update the `ANNOUNCEMENT_URL` in the fetch.ts script
+5. Adjust CSS selectors if the page structure is different
+6. Test with `bun run fetch.ts`
+
+Example:
+```bash
+cd services/scholarship-kr-api
+agent-browser open https://www.university.ac.kr --session uni
+agent-browser --session uni snapshot -i  # Find 장학 menu
+# Update URL in fetch.ts
+bun run scripts/scholarship-announcements/www.university.ac.kr/fetch.ts
+```
+
+## Usage
+
+```bash
+cd services/scholarship-kr-api
+bun install
+
+# Run single script
+bun run scripts/scholarship-announcements/www.syu.ac.kr/fetch.ts
+
+# Run all scripts
+bun run scripts/fetch-all.ts
+```
+
+## Output Format
+
+Each successful script generates `announcements.json`:
+
+```json
+{
+  "university": "University Name",
+  "url": "https://...",
+  "fetchedAt": "2026-02-12T...",
+  "count": 42,
+  "announcements": [
+    {
+      "title": "Scholarship Title",
+      "link": "https://...",
+      "date": "2026-02-10",
+      "author": "Admin",
+      "views": 123
+    }
+  ]
+}
+```
