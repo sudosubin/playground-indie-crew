@@ -7,9 +7,9 @@ import { fileURLToPath } from 'url';
 
 const __dirname = dirname(fileURLToPath(import.meta.url));
 
-const UNIVERSITY_NAME = '연세대학교';
-const ANNOUNCEMENT_URL = 'https://www.yonsei.ac.kr/sc/support/notice.do';
-const BASE_URL = 'https://www.yonsei.ac.kr';
+const UNIVERSITY_NAME = '{{UNIVERSITY_NAME}}';
+const ANNOUNCEMENT_URL = '{{ANNOUNCEMENT_URL}}';
+const BASE_URL = new URL(ANNOUNCEMENT_URL).origin;
 
 interface Announcement {
   title: string;
@@ -26,55 +26,145 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
   const page = await browser.newPage();
   
   try {
-    await page.goto(ANNOUNCEMENT_URL, { waitUntil: 'networkidle' });
+    // Set user agent
+    await page.setExtraHTTPHeaders({
+      'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+    });
+    
+    // Navigate with longer timeout
+    const response = await page.goto(ANNOUNCEMENT_URL, { 
+      waitUntil: 'domcontentloaded',
+      timeout: 60000 
+    });
+    
+    if (!response || response.status() === 404) {
+      console.log(`[${UNIVERSITY_NAME}] Page returned 404`);
+      await browser.close();
+      return null;
+    }
+    
+    // Wait for content to load
     await page.waitForTimeout(3000);
     
-    // Try multiple common selectors for Korean university boards
+    // Try multiple selectors
     const announcements = await page.evaluate((baseUrl) => {
       const items: Announcement[] = [];
       
-      // Try various selectors
-      const selectors = [
-        '.board-list tbody tr',
-        '.bbs-list tbody tr', 
+      // Comprehensive list of selectors for Korean university boards
+      const rowSelectors = [
         'table tbody tr',
-        '.list-type tbody tr',
+        '.board-list tbody tr',
+        '.bbs-list tbody tr',
+        '.notice-list tbody tr',
         '[class*="board"] tbody tr',
+        '[class*="bbs"] tbody tr',
+        '.list-type1 tbody tr',
+        '.tbl_list tbody tr',
+        '.list_table tbody tr',
+        '.scholarship-list li',
         '.notice-list li',
-        '.post-list li'
+        '.post-list li',
+        '.article-list li',
+        'ul li .title',
+        '.content-list .item'
       ];
       
-      for (const selector of selectors) {
+      for (const selector of rowSelectors) {
         const rows = document.querySelectorAll(selector);
-        if (rows.length > 0) {
+        if (rows.length > 0 && rows.length < 200) { // Reasonable number
           rows.forEach((row) => {
-            const titleEl = row.querySelector('.title a, td:nth-child(2) a, .subject a, a');
-            const dateEl = row.querySelector('.date, td:nth-child(3), .reg-date');
-            const authorEl = row.querySelector('.author, td:nth-child(4), .writer');
-            const viewsEl = row.querySelector('.views, td:nth-child(5), .hit, .count');
+            // Try various title selectors
+            const titleSelectors = [
+              'td:nth-child(2) a',
+              'td:nth-child(2)',
+              '.title a',
+              '.title',
+              '.subject a',
+              '.subject',
+              'a[href*="view"]',
+              'a[href*="detail"]',
+              'a[href*="article"]',
+              '.list-title',
+              'h3 a',
+              'h4 a',
+              'a'
+            ];
+            
+            let titleEl: Element | null = null;
+            let linkEl: Element | null = null;
+            
+            for (const ts of titleSelectors) {
+              titleEl = row.querySelector(ts);
+              if (titleEl) {
+                linkEl = titleEl.tagName === 'A' ? titleEl : titleEl.closest('a');
+                break;
+              }
+            }
             
             if (titleEl) {
               const title = titleEl.textContent?.trim() || '';
-              let link = titleEl.getAttribute('href') || '';
               
-              // Handle JavaScript links
+              // Skip header rows
+              if (!title || title === '제목' || title === '번호' || title === 'Title' || title.length < 2) {
+                return;
+              }
+              
+              // Get link
+              let link = linkEl?.getAttribute('href') || '';
               if (link.startsWith('javascript:')) {
-                const onclick = titleEl.getAttribute('onclick') || '';
-                const match = onclick.match(/\'(\d+)\'/);
-                if (match) link = `/view/${match[1]}`;
+                const onclick = linkEl?.getAttribute('onclick') || titleEl?.getAttribute('onclick') || '';
+                const match = onclick.match(/['"](\d+)['"]/);
+                if (match) {
+                  link = `/view/${match[1]}`;
+                }
               }
               
-              if (title && title !== '제목' && title.length > 0) {
-                items.push({
-                  title,
-                  link: link.startsWith('http') ? link : baseUrl + link,
-                  date: dateEl?.textContent?.trim() || '',
-                  author: authorEl?.textContent?.trim() || '',
-                  views: parseInt(viewsEl?.textContent?.replace(/[^0-9]/g, '') || '0') || 0
-                });
+              // Get date from various selectors
+              const dateSelectors = ['td:nth-child(3)', '.date', '.reg-date', '.wdate', '.write-date', '.created'];
+              let date = '';
+              for (const ds of dateSelectors) {
+                const el = row.querySelector(ds);
+                if (el?.textContent?.trim()) {
+                  date = el.textContent.trim();
+                  break;
+                }
               }
+              
+              // Get author
+              const authorSelectors = ['td:nth-child(4)', '.author', '.writer', '.name', '.user'];
+              let author = '';
+              for (const as of authorSelectors) {
+                const el = row.querySelector(as);
+                if (el?.textContent?.trim()) {
+                  author = el.textContent.trim();
+                  break;
+                }
+              }
+              
+              // Get views
+              const viewsSelectors = ['td:nth-child(5)', '.views', '.hit', '.count', '.read'];
+              let views = 0;
+              for (const vs of viewsSelectors) {
+                const el = row.querySelector(vs);
+                if (el?.textContent) {
+                  const num = parseInt(el.textContent.replace(/[^0-9]/g, ''));
+                  if (!isNaN(num)) {
+                    views = num;
+                    break;
+                  }
+                }
+              }
+              
+              items.push({
+                title,
+                link: link.startsWith('http') ? link : (link.startsWith('/') ? baseUrl + link : baseUrl + '/' + link),
+                date,
+                author,
+                views
+              });
             }
           });
+          
           if (items.length > 0) break;
         }
       }
@@ -91,8 +181,8 @@ async function fetchViaPlaywright(): Promise<Announcement[] | null> {
     
     return null;
   } catch (e) {
-    await browser.close();
     console.error(`[${UNIVERSITY_NAME}] Error:`, e);
+    await browser.close();
     return null;
   }
 }
